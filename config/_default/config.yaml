@@ -3,13 +3,14 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Wowchemy Research Group # Website name
-baseURL: 'https://example.com/' # Website URL
+title: emAI @ NJU # Website name
+baseURL: 'https://nju-ee.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
 ############################
 
+# 网站默认语言 ：[en, zh]
 defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
