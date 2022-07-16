@@ -15,14 +15,16 @@ role: 硕博连读(2017-)
 # Organizations/Affiliations
 organizations:
   - name: 个人主页
-    url: 'https://ese.nju.edu.cn/ly/list.htm'
+    url: 'https://andyliming.github.io/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 简略介绍
 
 interests:
-  - 视觉深度感知与三维重建
+  - 计算机视觉
   - 深度估计
+  - 立体匹配
+  - 深度学习
 
 education:
   courses:
@@ -43,7 +45,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:yogo@nju.edu.cn.org'
+    link: 'mailto:mingli@smail.nju.edu.cn'
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

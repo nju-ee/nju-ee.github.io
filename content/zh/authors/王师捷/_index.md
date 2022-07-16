@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士(2020-)
+role: 硕士(2022-)
 
 # Organizations/Affiliations
 organizations:
