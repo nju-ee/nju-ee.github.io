@@ -9,49 +9,45 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Contact
+title: 联系我们
 subtitle:
 
 content:
   # Contact (edit or remove options as required)
 
-  email: test@example.org
+  email: njueelab136@gmail.com
   phone: 888 888 88 88
   address:
-    street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
-    country: United States
-    country_code: US
+    street: 江苏省南京市栖霞区南京大学仙林小区-电子科学与工程学院
+    city: 
+    region: 
+    postcode: 邮编：210023
+    country: 
+    country_code:  
   coordinates:
-    latitude: '37.4275'
-    longitude: '-122.1697'
-  directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+    latitude: '32.1133'
+    longitude: '118.9572'
+  directions: 电子科学与工程学院一楼136室
   office_hours:
-    - 'Monday 10:00 to 13:00'
-    - 'Wednesday 09:00 to 10:00'
-  appointment_url: 'https://calendly.com'
-  #contact_links:
-  #  - icon: comments
-  #    icon_pack: fas
-  #    name: Discuss on Forum
-  #    link: 'https://discourse.gohugo.io'
+    - '工作日：10:00-12:00 和 14：00-17：00'
+  contact_links:
+    - icon: github
+      icon_pack: fab
+      name: 实验室GITHUB主页
+      link: 'https://github.com/nju-ee'
 
   # Automatically link email and phone or display as text?
   autolink: true
 
   # Email form provider
-  form:
-    provider: netlify
-    formspree:
-      id:
-    netlify:
-      # Enable CAPTCHA challenge to reduce spam?
-      captcha: false
+  #form:
+  #  provider: netlify
+  #  formspree:
+  #    id:
+  #  netlify:
+  #    # Enable CAPTCHA challenge to reduce spam?
+  #    captcha: false
 
 design:
   columns: '1'
 ---
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
