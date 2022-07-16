@@ -6,3 +6,7 @@ image:
 ---
 
 恭喜李明和靳学乾！
+
+<!--more-->
+
+[论文详情]({{< relref "/publication/MODE2022" >}})

@@ -18,15 +18,15 @@ content:
   email: njueelab136@gmail.com
   phone: 888 888 88 88
   address:
-    street: 江苏省南京市栖霞区南京大学仙林小区-电子科学与工程学院
+    street: 江苏省南京市栖霞区南京大学仙林校区-电子科学与工程学院
     city: 
     region: 
     postcode: 邮编：210023
     country: 
     country_code:  
   coordinates:
-    latitude: '32.1133'
-    longitude: '118.9572'
+    latitude: '32.1132'
+    longitude: '118.9568'
   directions: 电子科学与工程学院一楼136室
   office_hours:
     - '工作日：10:00-12:00 和 14：00-17：00'
@@ -38,15 +38,6 @@ content:
 
   # Automatically link email and phone or display as text?
   autolink: true
-
-  # Email form provider
-  #form:
-  #  provider: netlify
-  #  formspree:
-  #    id:
-  #  netlify:
-  #    # Enable CAPTCHA challenge to reduce spam?
-  #    captcha: false
 
 design:
   columns: '1'

@@ -7,9 +7,7 @@ widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 title: |
-  Welcome 
-  
-  to the emAI!
+  欢迎来到emAI！
 hero_media: lab.JPG
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.

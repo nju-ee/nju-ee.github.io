@@ -11,7 +11,7 @@ baseURL: 'https://nju-ee.github.io/' # Website URL
 ############################
 
 # 网站默认语言 ：[en, zh]
-defaultContentLanguage: en
+defaultContentLanguage: zh
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true
