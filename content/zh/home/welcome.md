@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **emAI** has been a center of excellence for Artificial Intelligence research, teaching, and practice.
+**emAI**是南京大学电子科学与技术学院下的一个充满活力的研究小组。我们主要的研究方向是计算机视觉、人工智能、图像处理。
