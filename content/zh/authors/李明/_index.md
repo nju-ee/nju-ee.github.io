@@ -28,11 +28,12 @@ interests:
 
 education:
   courses:
-    - 电子科学与技术 博士
-      南京大学
-    - 电子信息科学与技术 学士
-      南京大学
-      2017
+    - course: 电子科学与技术博士
+      institution: 南京大学
+      year: -
+    - course: 电子信息科学与技术学士
+      institution: 南京大学
+      year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
