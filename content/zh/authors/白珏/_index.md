@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Bai Jue(白珏)
+title: Jue Bai(白珏)
 
 # Username (this should match the folder name)
 authors:
