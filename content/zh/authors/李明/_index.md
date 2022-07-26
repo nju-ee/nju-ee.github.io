@@ -28,9 +28,6 @@ interests:
 
 education:
   courses:
-    - course: 电子科学与技术博士
-      institution: 南京大学
-      year: -
     - course: 电子信息科学与技术学士
       institution: 南京大学
       year: 2017
