@@ -31,17 +31,12 @@ tags:
   - Source Themes
 featured: true
 
-links:
-  - name: Custom Link
-    url: http://example.org
+# 外部链接
 url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
+url_code: 'https://github.com/nju-ee/MODE-2022'
 url_dataset: '#'
 url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_video: 'https://www.youtube.com/watch?v=Fw-KR35UWgQ'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -65,5 +60,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
-
-The code and data are available at [here](https://github.com/nju-ee/MODE-2022).
