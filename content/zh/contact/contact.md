@@ -16,7 +16,6 @@ content:
   # Contact (edit or remove options as required)
 
   email: njueelab136@gmail.com
-  phone: 888 888 88 88
   address:
     street: 江苏省南京市栖霞区南京大学仙林校区-电子科学与工程学院
     city: 
