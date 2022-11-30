@@ -6,6 +6,7 @@
 widget: hero # See https://wowchemy.com/docs/page-builder/
 headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
+active: false
 title: |
   欢迎来到emAI！
 hero_media: lab.JPG
