@@ -29,6 +29,12 @@ zh:
         - name: 事件
           url: event
           weight: 40
+        - name: 研究方向
+          weight: 45
+          hasChildren: true
+        - parent: 研究方向
+          name: Autonomous Driving Perception
+          url: https://colec777.github.io/omni.page.io/
         - name: 论文出版
           url: publication
           weight: 50
