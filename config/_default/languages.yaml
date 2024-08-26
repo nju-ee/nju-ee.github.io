@@ -34,7 +34,7 @@ zh:
           hasChildren: true
         - parent: 研究方向
           name: Autonomous Driving Perception
-          url: https://colec777.github.io/omni.page.io/
+          url: https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/
         - name: 论文出版
           url: publication
           weight: 50
