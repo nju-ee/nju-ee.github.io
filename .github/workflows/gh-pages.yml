@@ -1,6 +1,6 @@
 name: github pages
 env:
-  WC_HUGO_VERSION: '0.125.7'
+  WC_HUGO_VERSION: '0.97.3'
 on:
   push:
     branches:
