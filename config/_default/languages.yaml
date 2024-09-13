@@ -41,6 +41,6 @@ zh:
         - name: 联系我们
           url: contact
           weight: 60
-        - name: 
+        - name: a
           url: Autonomous
           weight: 70
