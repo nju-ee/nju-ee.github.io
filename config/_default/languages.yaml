@@ -41,6 +41,3 @@ zh:
         - name: 联系我们
           url: contact
           weight: 60
-        - name: 自动驾驶
-          url: Autonomous
-          weight: 70
