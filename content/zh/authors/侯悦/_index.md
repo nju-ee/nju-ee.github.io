@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jiaheng Li(李嘉恒)
+title: Yue Hou(侯悦)
 
 # Username (this should match the folder name)
 authors:
-  - 李嘉恒
+  - 侯悦
   
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 硕士(2024-)
+role: 硕士(2023-)
 
 # Organizations/Affiliations
 #organizations:
@@ -21,14 +21,14 @@ role: 硕士(2024-)
 bio: 简略介绍
 
 interests:
-  - 3D感知
-  - 数据集采集
+  - 计算机视觉
+  - 深度学习
 
-#education:
-#  courses:
-#    - course: PhD in Artificial Intelligence
-#      institution: Stanford University
-#      year: 2012
+education:
+  courses:
+    - course: 学士学位
+      institution: 南京航空航天大学
+      year: 2023
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
 #      year: 2009
@@ -43,7 +43,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '545515600@qq.com'
+    link: 'nuaahouyue@163.com'
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/jcboxq

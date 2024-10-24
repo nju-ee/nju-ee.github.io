@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Jiaheng Li(李嘉恒)
+title: Xiangxiang Wang(王祥祥)
 
 # Username (this should match the folder name)
 authors:
-  - 李嘉恒
+  - 王祥祥
   
 # Is this the primary user of the site?
 superuser: false
@@ -21,8 +21,8 @@ role: 硕士(2024-)
 bio: 简略介绍
 
 interests:
-  - 3D感知
-  - 数据集采集
+  - Video stereo matching
+
 
 #education:
 #  courses:
@@ -43,7 +43,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '545515600@qq.com'
+    link: 'diligentwxx@gmail.com'
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/jcboxq

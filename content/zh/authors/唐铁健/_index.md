@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jiaheng Li(李嘉恒)
+title: Tiejian Tang(唐铁健)
 
 # Username (this should match the folder name)
 authors:
-  - 李嘉恒
+  - 唐铁健
   
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 硕士(2024-)
+role: 硕士(2022-)
 
 # Organizations/Affiliations
 #organizations:
@@ -21,8 +21,8 @@ role: 硕士(2024-)
 bio: 简略介绍
 
 interests:
-  - 3D感知
-  - 数据集采集
+  - 深度估计
+  - 智能驾驶感知算法
 
 #education:
 #  courses:
@@ -43,7 +43,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '545515600@qq.com'
+    link: 'ttj@smail.nju.edu.cn'
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/jcboxq
@@ -61,4 +61,4 @@ email: ''
 user_groups:
   - 硕士
 ---
-
+喜欢羽毛球，游泳，看动漫，湖南伢子，特别能吃辣

@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Jiaheng Li(李嘉恒)
+title: Chaofan Wu(武超凡)
 
 # Username (this should match the folder name)
 authors:
-  - 李嘉恒
+  - 武超凡
   
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: 硕士(2024-)
+role: 硕士(2023-)
 
 # Organizations/Affiliations
 #organizations:
@@ -21,8 +21,10 @@ role: 硕士(2024-)
 bio: 简略介绍
 
 interests:
-  - 3D感知
-  - 数据集采集
+  - 计算机视觉
+  - 深度估计
+  - 占据预测
+  - 3d目标检测
 
 #education:
 #  courses:
@@ -43,7 +45,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '545515600@qq.com'
+    link: '2905605570@qq.com'
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/jcboxq
