@@ -21,8 +21,8 @@ role: 硕士(2022-)
 bio: 简略介绍
 
 interests:
-  - 视觉深度感知与三维重建
-  - 深度估计
+  - 视频片段检索
+  - 高光检测
 
 #education:
 #  courses:
@@ -40,10 +40,10 @@ interests:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:jcboxq@126.com'
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:xze@smail.nju.edu.cn'
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/jcboxq
@@ -54,7 +54,7 @@ interests:
 #    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'xze@smail.nju.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
