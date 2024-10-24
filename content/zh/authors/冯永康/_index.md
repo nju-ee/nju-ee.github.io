@@ -21,13 +21,14 @@ role: 硕士(2023-)
 bio: 简略介绍
 
 interests:
-  - 计算机视觉
-  - 深度学习
+  - 双目深度估计
+  - 多目鱼眼全向深度估计
+  - 用于去除高光的神经网络
 
 education:
   courses:
     - course: 学士学位
-      institution: 南京航空航天大学
+      institution: 南京大学
       year: 2023
 #    - course: MEng in Artificial Intelligence
 #      institution: Massachusetts Institute of Technology
@@ -43,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'nuaahouyue@163.com'
+    link: 'qq957754650@gmail.com'
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/jcboxq
@@ -61,4 +62,4 @@ email: ''
 user_groups:
   - 硕士
 ---
-
+Feel free to contact me.
