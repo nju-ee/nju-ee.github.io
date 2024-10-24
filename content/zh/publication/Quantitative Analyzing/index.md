@@ -2,7 +2,7 @@
 title: 'A Review on Quantitative Analyzing Axonal Transport of Mitochondria'
 authors:
   - 陈佟
-  - 彭成磊
+  #- 彭成磊
   - 李明
   - 陈旭东
   - 都思丹

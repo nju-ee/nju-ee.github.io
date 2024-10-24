@@ -2,7 +2,7 @@
 title: 'The study of stereo matching optimization based on multi-baseline trinocular model'
 authors:
   - 王杰
-  - 彭成磊
+  #- 彭成磊
   - 李明
   - 李杨
   - 都思丹

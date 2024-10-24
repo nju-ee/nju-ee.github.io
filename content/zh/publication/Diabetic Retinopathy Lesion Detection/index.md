@@ -2,9 +2,9 @@
 title: 'Pixel-level Diabetic Retinopathy Lesion Detection Using Multi-scale Convolutional Neural Network'
 authors:
   - 黎琪
-  - Ma Yazhen
-  - 彭成磊
-  - Guo Bin
+  #- Ma Yazhen
+  #- 彭成磊
+  #- Guo Bin
   - 都思丹
   - 李杨
   

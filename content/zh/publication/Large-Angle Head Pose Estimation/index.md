@@ -2,7 +2,7 @@
 title: 'A Study of General Data Improvement for Large-Angle Head Pose Estimation'
 authors:
   - 白珏
-  - 彭成磊
+  #- 彭成磊
   - 李兆旭
   - 都思丹
   - 李杨

@@ -2,7 +2,7 @@
 title: 'A Shadow Detection Method for Retaining Key Objects in Complex Scenes'
 authors:
   - 曹静怡
-  - 彭成磊
+  #- 彭成磊
   - 李杨
   - 都思丹
   

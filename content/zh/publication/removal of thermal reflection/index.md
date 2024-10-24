@@ -3,7 +3,7 @@ title: 'Depth-based removal of thermal reflection with the light-field theory'
 authors:
   - 靳学乾
   - 李明
-  - 彭成磊
+  #- 彭成磊
   - 都思丹
   - 李杨
   
