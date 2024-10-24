@@ -25,17 +25,17 @@ publication_short: In *ECCV*
 abstract: In this paper, we propose a two-stage omnidirectional depth estimation framework with multi-view 360◦ cameras. The framework first estimates the depth maps from different camera pairs via omnidirectional stereo matching and then fuses the depth maps to achieverobustness against mud spots, water drops on camera lenses, and glare caused by intense light. We adopt spherical feature learning to address the distortion of panoramas. In addition, a synthetic 360◦ dataset consisting of 12K road scene panoramas and 3K ground truth depth maps is presented to train and evaluate 360◦ depth estimation algorithms. Our dataset takes soiled camera lenses and glare into consideration, which is more consistent with the real-world environment. Experimental results show that the proposed framework generates reliable results in both synthetic and real-world environments, and it achieves state-of-the-art performance on different datasets.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+#summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
   - Source Themes
 featured: true
 
 # 外部链接
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: 'http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf'
 url_code: 'https://github.com/nju-ee/MODE-2022'
-url_dataset: '#'
-url_poster: '#'
+#url_dataset: '#'
+#url_poster: '#'
 url_video: 'https://www.youtube.com/watch?v=Fw-KR35UWgQ'
 
 # Featured image
