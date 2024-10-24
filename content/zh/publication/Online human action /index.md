@@ -23,7 +23,7 @@ publishDate: '2022-6-28T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Neurocomputing*
+#publication: In *Neurocomputing*
 #publication_short: In *CNIOT*
 
 abstract: To meet the demand for powerful models for practical applications in real time, the focus of research on human actions has shifted from offline detection to online and real-time understanding, such as driver-assistance systems, surveillance analysis, and robot services. In recent years, with the development of video recording acquisition technology and deep learning, online action analysis has made significant progress. However, there is a lack of comprehensive online surveys for online human action detection. In this survey, we discuss two hot real-time concerns: online action detection and action anticipation. Online action/activity detection aims to determine whether an action is currently taking place and what kind of action it is in untrimmed videos. Action anticipation aims to anticipate human actions under limited observation of videos. Online action detection and anticipation require accuracy and low latency of detection when the video is partly observed. We present a comprehensive study that includes the definition, taxonomy, comparison of state-of-the-art techniques, datasets, metrics, challenges, and future directions. We hope that it will provide readers with a detailed understanding of the topic and inspiration for new research directions.
