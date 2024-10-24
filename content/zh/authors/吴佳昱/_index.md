@@ -22,7 +22,7 @@ bio: 简略介绍
 
 interests:
   - 视觉深度感知与三维重建
-  - 深度估计
+  - 深度感知算法轻量化
 
 #education:
 #  courses:
@@ -40,13 +40,13 @@ interests:
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
-#  - icon: envelope
-#    icon_pack: fas
-#    link: 'mailto:jcboxq@126.com'
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/jcboxq
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:602023230055@smail.nju.edu.cn'
+  - icon: github
+    icon_pack: fab
+    link: 'https://gitee.com/ArthurThomas'
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 #  - icon: cv
@@ -54,7 +54,7 @@ interests:
 #    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: '602023230055@smail.nju.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -62,4 +62,3 @@ user_groups:
   - 博士
 ---
 
-这里是个人介绍

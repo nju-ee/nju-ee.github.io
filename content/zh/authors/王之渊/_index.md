@@ -13,16 +13,16 @@ superuser: false
 role: 硕士(2019-2022)
 
 # Organizations/Affiliations
-organizations:
-  - name: 个人主页
-    url: 'https://ese.nju.edu.cn/ly/list.htm'
+#organizations:
+#  - name: 个人主页
+#    url: 'https://ese.nju.edu.cn/ly/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 简略介绍
 
-interests:
-  - 视觉深度感知与三维重建
-  - 生物图像信息学
+#interests:
+#  - 视觉深度感知与三维重建
+#  - 生物图像信息学
 
 #education:
 #  courses:

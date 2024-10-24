@@ -20,9 +20,9 @@ role: 硕士(2022-)
 # Short bio (displayed in user profile at end of posts)
 bio: 简略介绍
 
-interests:
-  - 视觉深度感知与三维重建
-  - 深度估计
+#interests:
+#  - 视觉深度感知与三维重建
+#  - 深度估计
 
 #education:
 #  courses:

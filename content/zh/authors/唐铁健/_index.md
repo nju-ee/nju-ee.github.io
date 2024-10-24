@@ -43,7 +43,7 @@ interests:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'ttj@smail.nju.edu.cn'
+    link: 'mailto:ttj@smail.nju.edu.cn'
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/jcboxq
@@ -54,7 +54,7 @@ social:
 #    link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'ttj@smail.nju.edu.cn'
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
