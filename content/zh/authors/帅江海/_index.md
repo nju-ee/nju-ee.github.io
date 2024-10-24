@@ -13,9 +13,9 @@ superuser: false
 role: 硕士(2022-)
 
 # Organizations/Affiliations
-organizations:
-  - name: 个人主页
-    url: 'https://ese.nju.edu.cn/ly/list.htm'
+#organizations:
+#  - name: 个人主页
+#    url: 'https://ese.nju.edu.cn/ly/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 简略介绍
@@ -24,17 +24,17 @@ interests:
   - 视觉深度感知与三维重建
   - 深度估计
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -42,12 +42,12 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   - email: ""
-  - icon: envelope
-    icon_pack: fas
-    link: 'mailto:yogo@nju.edu.cn.org'
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  #- icon: envelope
+  #  icon_pack: fas
+  #  link: 'mailto:yogo@nju.edu.cn.org'
+  #- icon: google-scholar
+  #  icon_pack: ai
+  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Jaheim-s

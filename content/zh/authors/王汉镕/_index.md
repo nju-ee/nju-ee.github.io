@@ -10,12 +10,12 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士(2020-)
+role: 硕士(2020-2023)
 
 # Organizations/Affiliations
-organizations:
-  - name: 个人主页
-    url: 'https://ese.nju.edu.cn/ly/list.htm'
+#organizations:
+#  - name: 个人主页
+#    url: 'https://ese.nju.edu.cn/ly/list.htm'
 
 # Short bio (displayed in user profile at end of posts)
 bio: 简略介绍
@@ -24,17 +24,17 @@ interests:
   - 视觉深度感知与三维重建
   - 生物图像信息学
 
-education:
-  courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+#education:
+#  courses:
+#    - course: PhD in Artificial Intelligence
+#      institution: Stanford University
+#      year: 2012
+#    - course: MEng in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2009
+#    - course: BSc in Artificial Intelligence
+#      institution: Massachusetts Institute of Technology
+#      year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -62,7 +62,7 @@ email: ''
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士
+  - 已毕业
 ---
 
 这里是个人介绍
