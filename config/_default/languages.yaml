@@ -26,9 +26,9 @@ zh:
         - name: 人员
           url: people
           weight: 30
-        - name: 事件
-          url: event
-          weight: 40
+        #- name: 事件
+        #  url: event
+        #  weight: 40
         - name: 研究方向
           weight: 45
           hasChildren: true
