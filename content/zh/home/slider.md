@@ -26,14 +26,14 @@ content:
         brightness: 0.7
         media: people.JPG
         fit: cover
-    - title: emAL
+    - title: emAI
       content: ''
       align: right
       background:
         position: center
         color: '#333'
         brightness: 0.5
-        media: welcome.jpg
+        media: graduate.JPG
       link:
         icon: graduation-cap
         icon_pack: fas

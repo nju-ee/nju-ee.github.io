@@ -2,7 +2,7 @@
 title: 我们的文章被 IEEE Signal Processing Letters 接收！
 date: 2024-01-10
 image:
-  focal_point: 'top'
+  focal_point: 'center'
 ---
 
 恭喜胡雪娇！
