@@ -34,10 +34,10 @@ zh:
           weight: 45
         #- name: 研究方向
         #  weight: 45
-        #  hasChildren: true
-        #- parent: 研究方向
-        #  name: Autonomous Driving Perception
-        #  url: https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/
+          hasChildren: true
+        - parent: 研究方向
+          name: Autonomous Driving Perception
+          url: https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/
         - name: 论文出版
           url: publication
           weight: 50
