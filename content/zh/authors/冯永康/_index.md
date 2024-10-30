@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'qq957754mailto:650@gmail.com'
+    link: 'mailto:qq957754650@gmail.com'
 #  - icon: github
 #    icon_pack: fab
 #    link: https://github.com/jcboxq
