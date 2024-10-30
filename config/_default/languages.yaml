@@ -30,13 +30,16 @@ zh:
         #  url: event
         #  weight: 40
         - name: 研究方向
-          url: direction
+          #url: direction
           weight: 45
         #- name: 研究方向
         #  weight: 45
           hasChildren: true
         - parent: 研究方向
-          name: Autonomous Driving Perception
+          name: 总览
+          url: direction
+        - parent: 研究方向
+          name: 自动驾驶感知
           url: https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/
         - name: 论文出版
           url: publication
