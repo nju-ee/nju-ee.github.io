@@ -8,7 +8,7 @@ headless: true # This file represents a page section.
 weight: 10 # Order that this section will appear.
 active: false
 title: |
-  欢迎来到emAI！
+  欢迎来到VAIS！
 hero_media: lab.JPG
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -20,4 +20,4 @@ design:
 
 <br>
 
-**emAI**是南京大学电子科学与技术学院下的一个充满活力的研究小组。我们主要的研究方向是计算机视觉、人工智能、图像处理等。
+**VAIS**是南京大学电子科学与技术学院下的一个充满活力的研究小组。我们主要的研究方向是计算机视觉、人工智能、图像处理等。

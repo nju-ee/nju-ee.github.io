@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} emAI, Nanjing University'
+    notice: '© {year} VAIS, Nanjing University'
     license:
       enable: false
       allow_derivatives: false

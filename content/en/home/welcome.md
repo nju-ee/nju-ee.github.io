@@ -9,7 +9,7 @@ weight: 10 # Order that this section will appear.
 title: |
   Welcome 
   
-  to the emAI!
+  to the VAIS!
 hero_media: lab.JPG
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
@@ -21,4 +21,4 @@ design:
 
 <br>
 
-The **emAI** has been a center of excellence for Artificial Intelligence research, teaching, and practice.
+The **VAIS** has been a center of excellence for Artificial Intelligence research, teaching, and practice.
