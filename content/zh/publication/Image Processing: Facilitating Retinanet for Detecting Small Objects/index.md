@@ -22,7 +22,7 @@ publishDate: '2021-02-22T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Physics: Conference Series*
+publication: In *Journal of Physics Conference Series*
 # publication_short: In *CNIOT*
 
 abstract: Detecting small objects is a challenging task in object detection due to low spatial resolution and interference by background. Specifically, one-stage detectors struggle with small objects for they generate worse candidate bounding boxes. In this paper, several modifications are made to the original Retinanet to tackle the problem. Dilated convolutional layers are added to the backbone to get fined-grained features along with semantic information. The gradient of loss function is increased near the origin to enhance the quality of candidate boxes for small objects. A novel feature fusion method is also proposed to directly guide low-level features with semantic information. Significant improvement of 5.1 mAP can be seen when evaluating on MOCOD small object dataset, which contains a large amount of small objects. Our method can be easily migrated to other backbone networks with feature pyramids for detecting small objects.
