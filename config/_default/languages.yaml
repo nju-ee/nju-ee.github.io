@@ -41,6 +41,9 @@ zh:
         - parent: 研究方向
           name: 自动驾驶感知
           url: https://nju-ee.github.io/Autonomous_Driving_Research_Group.page/
+        - parent: 研究方向
+          name: 视频理解
+          url: Video_Understanding_Research_Group.page
         - name: 论文出版
           url: publication
           weight: 50
