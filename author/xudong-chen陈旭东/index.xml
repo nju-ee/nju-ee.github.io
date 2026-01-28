@@ -1,1 +1,36 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Xudong Chen(陈旭东) | VAIS @ NJU</title><link>https://nju-ee.github.io/author/xudong-chen%E9%99%88%E6%97%AD%E4%B8%9C/</link><atom:link href="https://nju-ee.github.io/author/xudong-chen%E9%99%88%E6%97%AD%E4%B8%9C/index.xml" rel="self" type="application/rss+xml"/><description>Xudong Chen(陈旭东)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate><image><url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url><title>Xudong Chen(陈旭东)</title><link>https://nju-ee.github.io/author/xudong-chen%E9%99%88%E6%97%AD%E4%B8%9C/</link></image><item><title>A Review on Quantitative Analyzing Axonal Transport of Mitochondria</title><link>https://nju-ee.github.io/publication/quantitative-analyzing/</link><pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/quantitative-analyzing/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Xudong Chen(陈旭东) | VAIS @ NJU</title>
+    <link>https://nju-ee.github.io/author/xudong-chen%E9%99%88%E6%97%AD%E4%B8%9C/</link>
+      <atom:link href="https://nju-ee.github.io/author/xudong-chen%E9%99%88%E6%97%AD%E4%B8%9C/index.xml" rel="self" type="application/rss+xml" />
+    <description>Xudong Chen(陈旭东)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 08 Apr 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <title>Xudong Chen(陈旭东)</title>
+      <link>https://nju-ee.github.io/author/xudong-chen%E9%99%88%E6%97%AD%E4%B8%9C/</link>
+    </image>
+    
+    <item>
+      <title>A Review on Quantitative Analyzing Axonal Transport of Mitochondria</title>
+      <link>https://nju-ee.github.io/publication/quantitative-analyzing/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/quantitative-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Xudong Chen(陈旭东)</title>
+      <link>https://nju-ee.github.io/author/xudong-chen%E9%99%88%E6%97%AD%E4%B8%9C/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/author/xudong-chen%E9%99%88%E6%97%AD%E4%B8%9C/</guid>
+      <description>&lt;p&gt;经历了紫荆 pt、GoAgent 时代，开眼看世界。
+经过几年不务正业，精通各式语言和框架，如 C++、Makefile、CMake、Bash、Python、Latex、Markdown、HTML、CSS、JavaScript、Lua、Java、Hive SQL，以及各样系统和软件，如 Windows、Ubuntu、Microsoft Office、Microsoft Visio、Adobe Acrobat、Adobe Photoshop、SAI，的擅长领域和文档查询。&lt;/p&gt;
+&lt;p&gt;最近觉得 NAS 和 pt 有点意思，可惜紫荆已经关站。
+强烈安利 &lt;a href=&#34;https://byr.pt/promotionlink.php?key=2b0f8c144024f3cab226157096b639e6&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;BYRPT&lt;/a&gt; ，这是我有账号的几个 pt 站里还没关的，欢迎大家找我玩~~&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

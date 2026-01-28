@@ -1,1 +1,181 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sidan Du(都思丹) | VAIS @ NJU</title><link>https://nju-ee.github.io/author/sidan-du%E9%83%BD%E6%80%9D%E4%B8%B9/</link><atom:link href="https://nju-ee.github.io/author/sidan-du%E9%83%BD%E6%80%9D%E4%B8%B9/index.xml" rel="self" type="application/rss+xml"/><description>Sidan Du(都思丹)</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate><image><url>https://nju-ee.github.io/author/sidan-du%E9%83%BD%E6%80%9D%E4%B8%B9/avatar_hu3b0dc4d878f0896a0572ceec7b7182e7_46370_270x270_fill_q75_lanczos_center.jpg</url><title>Sidan Du(都思丹)</title><link>https://nju-ee.github.io/author/sidan-du%E9%83%BD%E6%80%9D%E4%B8%B9/</link></image><item><title>Distribution-aware Activity Boundary Representation for Online Detection of Action Start in Untrimmed Videos</title><link>https://nju-ee.github.io/publication/online-detection-of-action/</link><pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/online-detection-of-action/</guid><description/></item><item><title>CasOmniMVS: Cascade Omnidirectional Depth Estimation with Dynamic Spherical Sweeping</title><link>https://nju-ee.github.io/publication/casomnimvs/</link><pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/casomnimvs/</guid><description/></item><item><title>A Monocular Depth Estimation Method for Indoor-Outdoor Scenes Based on Vision Transformer</title><link>https://nju-ee.github.io/publication/monocular/</link><pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/monocular/</guid><description/></item><item><title>3D Associative Embedding: Multi-View 3D Human Pose Estimation in Crowded Scenes</title><link>https://nju-ee.github.io/publication/3d-associative-embedding/</link><pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/3d-associative-embedding/</guid><description/></item><item><title>Online human action detection and anticipation in videos: A survey</title><link>https://nju-ee.github.io/publication/online-human-action/</link><pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/online-human-action/</guid><description/></item><item><title> A Discussion of Optimization about Stereo Image Depth Estimation Based on Multi-baseline Trinocular Camera Model</title><link>https://nju-ee.github.io/publication/optimization-about-stereo-image-depth-estimation/</link><pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/optimization-about-stereo-image-depth-estimation/</guid><description/></item><item><title>A Shadow Detection Method for Retaining Key Objects in Complex Scenes</title><link>https://nju-ee.github.io/publication/shadow-detection/</link><pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/shadow-detection/</guid><description/></item><item><title>Depth-based removal of thermal reflection with the light-field theory</title><link>https://nju-ee.github.io/publication/removal-of-thermal-reflection/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/removal-of-thermal-reflection/</guid><description/></item><item><title>The study of stereo matching optimization based on multi-baseline trinocular model</title><link>https://nju-ee.github.io/publication/study-of-stereo/</link><pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/study-of-stereo/</guid><description/></item><item><title>A Study of General Data Improvement for Large-Angle Head Pose Estimation</title><link>https://nju-ee.github.io/publication/large-angle-head-pose-estimation/</link><pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/large-angle-head-pose-estimation/</guid><description/></item><item><title>Omnidirectional stereo depth estimation based on spherical deep network</title><link>https://nju-ee.github.io/publication/omnidirectional-stereo-depth/</link><pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/omnidirectional-stereo-depth/</guid><description/></item><item><title>A Review on Quantitative Analyzing Axonal Transport of Mitochondria</title><link>https://nju-ee.github.io/publication/quantitative-analyzing/</link><pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/quantitative-analyzing/</guid><description/></item><item><title>Pixel-level Diabetic Retinopathy Lesion Detection Using Multi-scale Convolutional Neural Network</title><link>https://nju-ee.github.io/publication/diabetic-retinopathy-lesion-detection/</link><pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/diabetic-retinopathy-lesion-detection/</guid><description/></item><item><title>Image Processing: Facilitating Retinanet for Detecting Small Objects</title><link>https://nju-ee.github.io/publication/image-processing-facilitating-retinanet-for-detecting-small-objects/</link><pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/image-processing-facilitating-retinanet-for-detecting-small-objects/</guid><description/></item><item><title>GazeFollowTR: A Method of Gaze Following with Reborn Mechanism</title><link>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</guid><description/></item><item><title>MMDA: Multi-person Marginal Distribution Awareness for Monocular 3D Pose Estimation</title><link>https://nju-ee.github.io/publication/mmda/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/mmda/</guid><description/></item><item><title>Pyramid Feature Attention Network for Monocular Depth Prediction</title><link>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</guid><description/></item><item><title>The multi-learning for food analyses in computer vision: a survey</title><link>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sidan Du(都思丹) | VAIS @ NJU</title>
+    <link>https://nju-ee.github.io/author/sidan-du%E9%83%BD%E6%80%9D%E4%B8%B9/</link>
+      <atom:link href="https://nju-ee.github.io/author/sidan-du%E9%83%BD%E6%80%9D%E4%B8%B9/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sidan Du(都思丹)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nju-ee.github.io/author/sidan-du%E9%83%BD%E6%80%9D%E4%B8%B9/avatar_hu3b0dc4d878f0896a0572ceec7b7182e7_46370_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Sidan Du(都思丹)</title>
+      <link>https://nju-ee.github.io/author/sidan-du%E9%83%BD%E6%80%9D%E4%B8%B9/</link>
+    </image>
+    
+    <item>
+      <title>Distribution-aware Activity Boundary Representation for Online Detection of Action Start in Untrimmed Videos</title>
+      <link>https://nju-ee.github.io/publication/online-detection-of-action/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/online-detection-of-action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sidan Du(都思丹)</title>
+      <link>https://nju-ee.github.io/author/sidan-du%E9%83%BD%E6%80%9D%E4%B8%B9/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/author/sidan-du%E9%83%BD%E6%80%9D%E4%B8%B9/</guid>
+      <description>&lt;h3 id=&#34;个人简历&#34;&gt;&lt;strong&gt;个人简历：&lt;/strong&gt;&lt;/h3&gt;
+&lt;p&gt;1997年毕业于南京大学，获博士学位。南京大学电子科学与工程学院电子工程系教授，图像工程实验室主任。电路与系统学科带头人，南京市321工程有突出贡献中青年专家。先后在日本富士通、美国西北大学访问研究， 曾挂职宜兴市科技副市长。主持承担了自然科学基金、国际合作重大项目，以及江苏省科技支撑计划等项目。发表SCI、EI学术论文100余篇。获授权国家发明专利20余项，江苏省科学技术三等奖、江苏省优秀软件产品奖，中国计算机行业发展成就奖（团体），日本富士通优秀业绩奖，南京大学青年骨干教师奖。&lt;/p&gt;
+&lt;h3 id=&#34;研究方向&#34;&gt;&lt;strong&gt;研究方向：&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;图像处理与控制&lt;/li&gt;
+&lt;li&gt;机器学习与算法&lt;/li&gt;
+&lt;li&gt;密码与信息安全&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;主要课程&#34;&gt;&lt;strong&gt;主要课程：&lt;/strong&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;本科生：概率论与随机过程，图像处理&lt;/li&gt;
+&lt;li&gt;研究生：信号处理中的数学方法，现代图像工程&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>CasOmniMVS: Cascade Omnidirectional Depth Estimation with Dynamic Spherical Sweeping</title>
+      <link>https://nju-ee.github.io/publication/casomnimvs/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/casomnimvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Monocular Depth Estimation Method for Indoor-Outdoor Scenes Based on Vision Transformer</title>
+      <link>https://nju-ee.github.io/publication/monocular/</link>
+      <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/monocular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>3D Associative Embedding: Multi-View 3D Human Pose Estimation in Crowded Scenes</title>
+      <link>https://nju-ee.github.io/publication/3d-associative-embedding/</link>
+      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/3d-associative-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Online human action detection and anticipation in videos: A survey</title>
+      <link>https://nju-ee.github.io/publication/online-human-action/</link>
+      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/online-human-action/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> A Discussion of Optimization about Stereo Image Depth Estimation Based on Multi-baseline Trinocular Camera Model</title>
+      <link>https://nju-ee.github.io/publication/optimization-about-stereo-image-depth-estimation/</link>
+      <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/optimization-about-stereo-image-depth-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Shadow Detection Method for Retaining Key Objects in Complex Scenes</title>
+      <link>https://nju-ee.github.io/publication/shadow-detection/</link>
+      <pubDate>Fri, 06 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/shadow-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Depth-based removal of thermal reflection with the light-field theory</title>
+      <link>https://nju-ee.github.io/publication/removal-of-thermal-reflection/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/removal-of-thermal-reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The study of stereo matching optimization based on multi-baseline trinocular model</title>
+      <link>https://nju-ee.github.io/publication/study-of-stereo/</link>
+      <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/study-of-stereo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Study of General Data Improvement for Large-Angle Head Pose Estimation</title>
+      <link>https://nju-ee.github.io/publication/large-angle-head-pose-estimation/</link>
+      <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/large-angle-head-pose-estimation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Omnidirectional stereo depth estimation based on spherical deep network</title>
+      <link>https://nju-ee.github.io/publication/omnidirectional-stereo-depth/</link>
+      <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/omnidirectional-stereo-depth/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Review on Quantitative Analyzing Axonal Transport of Mitochondria</title>
+      <link>https://nju-ee.github.io/publication/quantitative-analyzing/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/quantitative-analyzing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pixel-level Diabetic Retinopathy Lesion Detection Using Multi-scale Convolutional Neural Network</title>
+      <link>https://nju-ee.github.io/publication/diabetic-retinopathy-lesion-detection/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/diabetic-retinopathy-lesion-detection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Image Processing: Facilitating Retinanet for Detecting Small Objects</title>
+      <link>https://nju-ee.github.io/publication/image-processing-facilitating-retinanet-for-detecting-small-objects/</link>
+      <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/image-processing-facilitating-retinanet-for-detecting-small-objects/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GazeFollowTR: A Method of Gaze Following with Reborn Mechanism</title>
+      <link>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MMDA: Multi-person Marginal Distribution Awareness for Monocular 3D Pose Estimation</title>
+      <link>https://nju-ee.github.io/publication/mmda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/mmda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pyramid Feature Attention Network for Monocular Depth Prediction</title>
+      <link>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The multi-learning for food analyses in computer vision: a survey</title>
+      <link>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

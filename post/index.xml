@@ -1,3 +1,50 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>最新新闻 | VAIS @ NJU</title><link>https://nju-ee.github.io/post/</link><atom:link href="https://nju-ee.github.io/post/index.xml" rel="self" type="application/rss+xml"/><description>最新新闻</description><generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0000</lastBuildDate><image><url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url><title>最新新闻</title><link>https://nju-ee.github.io/post/</link></image><item><title>我们实验室在2025年1月3日举办实验室年会！</title><link>https://nju-ee.github.io/post/25-01-03-nianhui/</link><pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/post/25-01-03-nianhui/</guid><description/></item><item><title>我们实验室在方肇周体育场举办趣味运动会！</title><link>https://nju-ee.github.io/post/24-10-29-sports-meeting/</link><pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/post/24-10-29-sports-meeting/</guid><description>&lt;p>科研之余注意身体健康&lt;/p></description></item><item><title>我们的文章被 IEEE Signal Processing Letters 接收！</title><link>https://nju-ee.github.io/post/24-01-10-ieeespl-accept/</link><pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/post/24-01-10-ieeespl-accept/</guid><description>&lt;p>恭喜胡雪娇！&lt;/p>
-&lt;p>&lt;a href="https://nju-ee.github.io/publication/online-detection-of-action/">论文详情&lt;/a>&lt;/p></description></item><item><title>我们的文章被 ECCV 2022 接收！</title><link>https://nju-ee.github.io/post/22-07-03-eccv-paper-accept/</link><pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate><guid>https://nju-ee.github.io/post/22-07-03-eccv-paper-accept/</guid><description>&lt;p>恭喜李明和靳学乾！&lt;/p>
-&lt;p>&lt;a href="https://nju-ee.github.io/publication/mode2022/">论文详情&lt;/a>&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>最新新闻 | VAIS @ NJU</title>
+    <link>https://nju-ee.github.io/post/</link>
+      <atom:link href="https://nju-ee.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>最新新闻</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 29 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <title>最新新闻</title>
+      <link>https://nju-ee.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>我们实验室在2025年1月3日举办实验室年会！</title>
+      <link>https://nju-ee.github.io/post/25-01-03-nianhui/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/post/25-01-03-nianhui/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我们实验室在方肇周体育场举办趣味运动会！</title>
+      <link>https://nju-ee.github.io/post/24-10-29-sports-meeting/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/post/24-10-29-sports-meeting/</guid>
+      <description>&lt;p&gt;科研之余注意身体健康&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>我们的文章被 IEEE Signal Processing Letters 接收！</title>
+      <link>https://nju-ee.github.io/post/24-01-10-ieeespl-accept/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/post/24-01-10-ieeespl-accept/</guid>
+      <description>&lt;p&gt;恭喜胡雪娇！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nju-ee.github.io/publication/online-detection-of-action/&#34;&gt;论文详情&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>我们的文章被 ECCV 2022 接收！</title>
+      <link>https://nju-ee.github.io/post/22-07-03-eccv-paper-accept/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/post/22-07-03-eccv-paper-accept/</guid>
+      <description>&lt;p&gt;恭喜李明和靳学乾！&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://nju-ee.github.io/publication/mode2022/&#34;&gt;论文详情&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
