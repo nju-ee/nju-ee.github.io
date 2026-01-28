@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chaofan Wu(武超凡) | VAIS @ NJU</title>
-    <link>http://localhost:1313/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/</link>
-      <atom:link href="http://localhost:1313/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nju-ee.github.io/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/</link>
+      <atom:link href="https://nju-ee.github.io/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaofan Wu(武超凡)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>http://localhost:1313/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/avatar_hu2b048b503a2e85d840e474239028f1c8_3580240_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nju-ee.github.io/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/avatar_hu2b048b503a2e85d840e474239028f1c8_3580240_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Chaofan Wu(武超凡)</title>
-      <link>http://localhost:1313/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/</link>
+      <link>https://nju-ee.github.io/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/</link>
     </image>
     
     <item>
       <title>Chaofan Wu(武超凡)</title>
-      <link>http://localhost:1313/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/</link>
+      <link>https://nju-ee.github.io/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/</guid>
+      <guid>https://nju-ee.github.io/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/</guid>
       <description></description>
     </item>
     

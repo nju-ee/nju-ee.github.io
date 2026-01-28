@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuqing Ling(凌煜清) | VAIS @ NJU</title>
-    <link>http://localhost:1313/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/</link>
-      <atom:link href="http://localhost:1313/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nju-ee.github.io/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/</link>
+      <atom:link href="https://nju-ee.github.io/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuqing Ling(凌煜清)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>http://localhost:1313/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/avatar_hu0531eccc4d93a20dbef03b1d41946609_1118757_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nju-ee.github.io/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/avatar_hu0531eccc4d93a20dbef03b1d41946609_1118757_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yuqing Ling(凌煜清)</title>
-      <link>http://localhost:1313/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/</link>
+      <link>https://nju-ee.github.io/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/</link>
     </image>
     
     <item>
       <title>Yuqing Ling(凌煜清)</title>
-      <link>http://localhost:1313/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/</link>
+      <link>https://nju-ee.github.io/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/</guid>
+      <guid>https://nju-ee.github.io/author/yuqing-ling%E5%87%8C%E7%85%9C%E6%B8%85/</guid>
       <description>&lt;p&gt;本人性格开朗，热爱探索，从事视频AI算法工作数年，对视觉AI方面的前沿技术抱有浓厚兴趣。&lt;/p&gt;
 </description>
     </item>

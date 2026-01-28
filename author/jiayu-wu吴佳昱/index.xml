@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiayu Wu(吴佳昱) | VAIS @ NJU</title>
-    <link>http://localhost:1313/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/</link>
-      <atom:link href="http://localhost:1313/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nju-ee.github.io/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/</link>
+      <atom:link href="https://nju-ee.github.io/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiayu Wu(吴佳昱)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>http://localhost:1313/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/avatar_hub6fadb0e51f98ea078ce175558974787_543558_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nju-ee.github.io/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/avatar_hub6fadb0e51f98ea078ce175558974787_543558_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiayu Wu(吴佳昱)</title>
-      <link>http://localhost:1313/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/</link>
+      <link>https://nju-ee.github.io/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/</link>
     </image>
     
     <item>
       <title>Jiayu Wu(吴佳昱)</title>
-      <link>http://localhost:1313/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/</link>
+      <link>https://nju-ee.github.io/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/</guid>
+      <guid>https://nju-ee.github.io/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/</guid>
       <description></description>
     </item>
     

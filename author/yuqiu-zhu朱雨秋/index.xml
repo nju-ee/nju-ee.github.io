@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuqiu Zhu(朱雨秋) | VAIS @ NJU</title>
-    <link>http://localhost:1313/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/</link>
-      <atom:link href="http://localhost:1313/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nju-ee.github.io/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/</link>
+      <atom:link href="https://nju-ee.github.io/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/index.xml" rel="self" type="application/rss+xml" />
     <description>Yuqiu Zhu(朱雨秋)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>http://localhost:1313/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/avatar_huf0e82396a932fc08792fe36aa64c30f1_292272_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://nju-ee.github.io/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/avatar_huf0e82396a932fc08792fe36aa64c30f1_292272_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yuqiu Zhu(朱雨秋)</title>
-      <link>http://localhost:1313/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/</link>
+      <link>https://nju-ee.github.io/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/</link>
     </image>
     
     <item>
       <title>Yuqiu Zhu(朱雨秋)</title>
-      <link>http://localhost:1313/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/</link>
+      <link>https://nju-ee.github.io/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/</guid>
+      <guid>https://nju-ee.github.io/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/</guid>
       <description>&lt;p&gt;南京大学电子科学与工程学院2024级研究生&lt;/p&gt;
 </description>
     </item>

@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jie Wang(王杰) | VAIS @ NJU</title>
-    <link>http://localhost:1313/author/jie-wang%E7%8E%8B%E6%9D%B0/</link>
-      <atom:link href="http://localhost:1313/author/jie-wang%E7%8E%8B%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nju-ee.github.io/author/jie-wang%E7%8E%8B%E6%9D%B0/</link>
+      <atom:link href="https://nju-ee.github.io/author/jie-wang%E7%8E%8B%E6%9D%B0/index.xml" rel="self" type="application/rss+xml" />
     <description>Jie Wang(王杰)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 22 May 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
       <title>Jie Wang(王杰)</title>
-      <link>http://localhost:1313/author/jie-wang%E7%8E%8B%E6%9D%B0/</link>
+      <link>https://nju-ee.github.io/author/jie-wang%E7%8E%8B%E6%9D%B0/</link>
     </image>
     
     <item>
       <title> A Discussion of Optimization about Stereo Image Depth Estimation Based on Multi-baseline Trinocular Camera Model</title>
-      <link>http://localhost:1313/publication/optimization-about-stereo-image-depth-estimation/</link>
+      <link>https://nju-ee.github.io/publication/optimization-about-stereo-image-depth-estimation/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/optimization-about-stereo-image-depth-estimation/</guid>
+      <guid>https://nju-ee.github.io/publication/optimization-about-stereo-image-depth-estimation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jie Wang(王杰)</title>
-      <link>http://localhost:1313/author/jie-wang%E7%8E%8B%E6%9D%B0/</link>
+      <link>https://nju-ee.github.io/author/jie-wang%E7%8E%8B%E6%9D%B0/</link>
       <pubDate>Sun, 22 May 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/jie-wang%E7%8E%8B%E6%9D%B0/</guid>
+      <guid>https://nju-ee.github.io/author/jie-wang%E7%8E%8B%E6%9D%B0/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The study of stereo matching optimization based on multi-baseline trinocular model</title>
-      <link>http://localhost:1313/publication/study-of-stereo/</link>
+      <link>https://nju-ee.github.io/publication/study-of-stereo/</link>
       <pubDate>Tue, 22 Feb 2022 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/study-of-stereo/</guid>
+      <guid>https://nju-ee.github.io/publication/study-of-stereo/</guid>
       <description></description>
     </item>
     

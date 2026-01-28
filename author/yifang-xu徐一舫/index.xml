@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yifang Xu(徐一舫) | VAIS @ NJU</title>
-    <link>http://localhost:1313/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
-      <atom:link href="http://localhost:1313/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://nju-ee.github.io/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
+      <atom:link href="https://nju-ee.github.io/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/index.xml" rel="self" type="application/rss+xml" />
     <description>Yifang Xu(徐一舫)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>http://localhost:1313/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
       <title>Yifang Xu(徐一舫)</title>
-      <link>http://localhost:1313/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
+      <link>https://nju-ee.github.io/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
     </image>
     
     <item>
       <title>Pyramid Feature Attention Network for Monocular Depth Prediction</title>
-      <link>http://localhost:1313/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</link>
+      <link>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</guid>
+      <guid>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yifang Xu(徐一舫)</title>
-      <link>http://localhost:1313/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
+      <link>https://nju-ee.github.io/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</guid>
+      <guid>https://nju-ee.github.io/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</guid>
       <description>&lt;p&gt;这里是个人介绍&lt;/p&gt;
 </description>
     </item>
