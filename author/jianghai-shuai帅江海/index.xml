@@ -2,46 +2,46 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jianghai Shuai(帅江海) | VAIS @ NJU</title>
-    <link>https://nju-ee.github.io/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/</link>
-      <atom:link href="https://nju-ee.github.io/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/</link>
+      <atom:link href="http://localhost:1313/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianghai Shuai(帅江海)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nju-ee.github.io/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/avatar_hud27a0af497d33d1255584977c6e3ffad_561899_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/avatar_hud27a0af497d33d1255584977c6e3ffad_561899_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jianghai Shuai(帅江海)</title>
-      <link>https://nju-ee.github.io/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/</link>
+      <link>http://localhost:1313/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/</link>
     </image>
     
     <item>
       <title>A Monocular Depth Estimation Method for Indoor-Outdoor Scenes Based on Vision Transformer</title>
-      <link>https://nju-ee.github.io/publication/monocular/</link>
+      <link>http://localhost:1313/publication/monocular/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/monocular/</guid>
+      <guid>http://localhost:1313/publication/monocular/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jianghai Shuai(帅江海)</title>
-      <link>https://nju-ee.github.io/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/</link>
+      <link>http://localhost:1313/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/</link>
       <pubDate>Fri, 17 Nov 2023 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/</guid>
+      <guid>http://localhost:1313/author/jianghai-shuai%E5%B8%85%E6%B1%9F%E6%B5%B7/</guid>
       <description>&lt;p&gt;这里是个人介绍&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>3D Associative Embedding: Multi-View 3D Human Pose Estimation in Crowded Scenes</title>
-      <link>https://nju-ee.github.io/publication/3d-associative-embedding/</link>
+      <link>http://localhost:1313/publication/3d-associative-embedding/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/3d-associative-embedding/</guid>
+      <guid>http://localhost:1313/publication/3d-associative-embedding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MMDA: Multi-person Marginal Distribution Awareness for Monocular 3D Pose Estimation</title>
-      <link>https://nju-ee.github.io/publication/mmda/</link>
+      <link>http://localhost:1313/publication/mmda/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/mmda/</guid>
+      <guid>http://localhost:1313/publication/mmda/</guid>
       <description></description>
     </item>
     

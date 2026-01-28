@@ -2,38 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jue Bai(白珏) | VAIS @ NJU</title>
-    <link>https://nju-ee.github.io/author/jue-bai%E7%99%BD%E7%8F%8F/</link>
-      <atom:link href="https://nju-ee.github.io/author/jue-bai%E7%99%BD%E7%8F%8F/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jue-bai%E7%99%BD%E7%8F%8F/</link>
+      <atom:link href="http://localhost:1313/author/jue-bai%E7%99%BD%E7%8F%8F/index.xml" rel="self" type="application/rss+xml" />
     <description>Jue Bai(白珏)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 04 Mar 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
       <title>Jue Bai(白珏)</title>
-      <link>https://nju-ee.github.io/author/jue-bai%E7%99%BD%E7%8F%8F/</link>
+      <link>http://localhost:1313/author/jue-bai%E7%99%BD%E7%8F%8F/</link>
     </image>
     
     <item>
       <title> A Novel Skeleton-based Model with Spine for 3D Human Pose Estimation</title>
-      <link>https://nju-ee.github.io/publication/3d-human-pose-estimation/</link>
+      <link>http://localhost:1313/publication/3d-human-pose-estimation/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/3d-human-pose-estimation/</guid>
+      <guid>http://localhost:1313/publication/3d-human-pose-estimation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jue Bai(白珏)</title>
-      <link>https://nju-ee.github.io/author/jue-bai%E7%99%BD%E7%8F%8F/</link>
+      <link>http://localhost:1313/author/jue-bai%E7%99%BD%E7%8F%8F/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/author/jue-bai%E7%99%BD%E7%8F%8F/</guid>
+      <guid>http://localhost:1313/author/jue-bai%E7%99%BD%E7%8F%8F/</guid>
       <description>&lt;p&gt;这里是个人介绍&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>A Study of General Data Improvement for Large-Angle Head Pose Estimation</title>
-      <link>https://nju-ee.github.io/publication/large-angle-head-pose-estimation/</link>
+      <link>http://localhost:1313/publication/large-angle-head-pose-estimation/</link>
       <pubDate>Sun, 31 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/large-angle-head-pose-estimation/</guid>
+      <guid>http://localhost:1313/publication/large-angle-head-pose-estimation/</guid>
       <description></description>
     </item>
     
