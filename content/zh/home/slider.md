@@ -18,7 +18,7 @@ design:
 content:
   slides:
     - title: 欢迎来到VAIS！
-      content: VAIS是南京大学电子科学与工程学院下的一个充满活力的研究小组。我们主要的研究方向是计算机视觉、人工智能、图像处理等11。
+      content: VAIS是南京大学电子科学与工程学院下的一个充满活力的研究小组。我们主要的研究方向是计算机视觉、人工智能、图像处理等。
       align: left
       background:
         position: center
