@@ -5,7 +5,7 @@
     <link>https://nju-ee.github.io/author/jingzhao-dai%E6%88%B4%E4%BA%AC%E6%98%AD/</link>
       <atom:link href="https://nju-ee.github.io/author/jingzhao-dai%E6%88%B4%E4%BA%AC%E6%98%AD/index.xml" rel="self" type="application/rss+xml" />
     <description>Jingzhao Dai(戴京昭)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 28 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 30 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nju-ee.github.io/author/jingzhao-dai%E6%88%B4%E4%BA%AC%E6%98%AD/avatar_hu17ef6455205ece084fb1ea65c6faf3d4_95341_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jingzhao Dai(戴京昭)</title>
@@ -13,12 +13,36 @@
     </image>
     
     <item>
+      <title>HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion</title>
+      <link>https://nju-ee.github.io/publication/the-patch-based-multi-task/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/the-patch-based-multi-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jingzhao Dai(戴京昭)</title>
       <link>https://nju-ee.github.io/author/jingzhao-dai%E6%88%B4%E4%BA%AC%E6%98%AD/</link>
-      <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
       <guid>https://nju-ee.github.io/author/jingzhao-dai%E6%88%B4%E4%BA%AC%E6%98%AD/</guid>
       <description>&lt;p&gt;这里是个人介绍&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>GazeFollowTR: A Method of Gaze Following with Reborn Mechanism</title>
+      <link>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The multi-learning for food analyses in computer vision: a survey</title>
+      <link>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -34,22 +58,6 @@
       <link>https://nju-ee.github.io/publication/omnidirectional-stereo-depth/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://nju-ee.github.io/publication/omnidirectional-stereo-depth/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GazeFollowTR: A Method of Gaze Following with Reborn Mechanism</title>
-      <link>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The multi-learning for food analyses in computer vision: a survey</title>
-      <link>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</guid>
       <description></description>
     </item>
     

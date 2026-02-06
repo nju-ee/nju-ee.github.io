@@ -5,7 +5,7 @@
     <link>https://nju-ee.github.io/author/benxiang-zhai%E7%BF%9F%E6%9C%AC%E7%A5%A5/</link>
       <atom:link href="https://nju-ee.github.io/author/benxiang-zhai%E7%BF%9F%E6%9C%AC%E7%A5%A5/index.xml" rel="self" type="application/rss+xml" />
     <description>Benxiang Zhai(翟本祥)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nju-ee.github.io/author/benxiang-zhai%E7%BF%9F%E6%9C%AC%E7%A5%A5/avatar_hue614bc0b2831c831689541ce4b39a1e7_106455_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Benxiang Zhai(翟本祥)</title>
@@ -15,8 +15,40 @@
     <item>
       <title>Benxiang Zhai(翟本祥)</title>
       <link>https://nju-ee.github.io/author/benxiang-zhai%E7%BF%9F%E6%9C%AC%E7%A5%A5/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://nju-ee.github.io/author/benxiang-zhai%E7%BF%9F%E6%9C%AC%E7%A5%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FaceSnap: Enhanced ID-Fidelity Network forTuning-Free Portrait Customization</title>
+      <link>https://nju-ee.github.io/publication/facesnap/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/facesnap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion</title>
+      <link>https://nju-ee.github.io/publication/hifi-portrait/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/hifi-portrait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Zero-shot Video Moment Retrieval via Off-the-shelf Multimodal Large Language Models</title>
+      <link>https://nju-ee.github.io/publication/zero-shot/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/zero-shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HP3: Tuning-Free Head-Preserving Portrait Personalization Via 3D-Controlled Diffusion Models</title>
+      <link>https://nju-ee.github.io/publication/hp3/</link>
+      <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/hp3/</guid>
       <description></description>
     </item>
     

@@ -5,12 +5,36 @@
     <link>https://nju-ee.github.io/publication-type/1/</link>
       <atom:link href="https://nju-ee.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Fri, 17 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
       <link>https://nju-ee.github.io/publication-type/1/</link>
     </image>
+    
+    <item>
+      <title>FaceSnap: Enhanced ID-Fidelity Network forTuning-Free Portrait Customization</title>
+      <link>https://nju-ee.github.io/publication/facesnap/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/facesnap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion</title>
+      <link>https://nju-ee.github.io/publication/hifi-portrait/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/hifi-portrait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Zero-shot Video Moment Retrieval via Off-the-shelf Multimodal Large Language Models</title>
+      <link>https://nju-ee.github.io/publication/zero-shot/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/zero-shot/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Monocular Depth Estimation Method for Indoor-Outdoor Scenes Based on Vision Transformer</title>
@@ -69,18 +93,18 @@
     </item>
     
     <item>
-      <title>Pixel-level Diabetic Retinopathy Lesion Detection Using Multi-scale Convolutional Neural Network</title>
-      <link>https://nju-ee.github.io/publication/diabetic-retinopathy-lesion-detection/</link>
-      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/diabetic-retinopathy-lesion-detection/</guid>
+      <title>Pyramid Feature Attention Network for Monocular Depth Prediction</title>
+      <link>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pyramid Feature Attention Network for Monocular Depth Prediction</title>
-      <link>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</guid>
+      <title>Pixel-level Diabetic Retinopathy Lesion Detection Using Multi-scale Convolutional Neural Network</title>
+      <link>https://nju-ee.github.io/publication/diabetic-retinopathy-lesion-detection/</link>
+      <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/diabetic-retinopathy-lesion-detection/</guid>
       <description></description>
     </item>
     

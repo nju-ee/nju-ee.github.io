@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>孙运卓 | VAIS @ NJU</title>
+    <link>https://nju-ee.github.io/author/%E5%AD%99%E8%BF%90%E5%8D%93/</link>
+      <atom:link href="https://nju-ee.github.io/author/%E5%AD%99%E8%BF%90%E5%8D%93/index.xml" rel="self" type="application/rss+xml" />
+    <description>孙运卓</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 11 Jun 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <title>孙运卓</title>
+      <link>https://nju-ee.github.io/author/%E5%AD%99%E8%BF%90%E5%8D%93/</link>
+    </image>
+    
+    <item>
+      <title>HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion</title>
+      <link>https://nju-ee.github.io/publication/hifi-portrait/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/hifi-portrait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Zero-shot Video Moment Retrieval via Off-the-shelf Multimodal Large Language Models</title>
+      <link>https://nju-ee.github.io/publication/zero-shot/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/zero-shot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

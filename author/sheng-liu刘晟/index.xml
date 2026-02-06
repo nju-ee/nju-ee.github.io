@@ -5,12 +5,29 @@
     <link>https://nju-ee.github.io/author/sheng-liu%E5%88%98%E6%99%9F/</link>
       <atom:link href="https://nju-ee.github.io/author/sheng-liu%E5%88%98%E6%99%9F/index.xml" rel="self" type="application/rss+xml" />
     <description>Sheng Liu(刘晟)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nju-ee.github.io/author/sheng-liu%E5%88%98%E6%99%9F/avatar_hu48ac6472c535bd0ce0c00692141f8c24_3812910_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Sheng Liu(刘晟)</title>
       <link>https://nju-ee.github.io/author/sheng-liu%E5%88%98%E6%99%9F/</link>
     </image>
+    
+    <item>
+      <title>ATHENA - Autonomous Vehicle Trajectory Planning Considered Human Action Awareness</title>
+      <link>https://nju-ee.github.io/publication/athena/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/athena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sheng Liu(刘晟)</title>
+      <link>https://nju-ee.github.io/author/sheng-liu%E5%88%98%E6%99%9F/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/author/sheng-liu%E5%88%98%E6%99%9F/</guid>
+      <description>&lt;p&gt;这里是个人介绍&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>3D Associative Embedding: Multi-View 3D Human Pose Estimation in Crowded Scenes</title>
@@ -21,12 +38,11 @@
     </item>
     
     <item>
-      <title>Sheng Liu(刘晟)</title>
-      <link>https://nju-ee.github.io/author/sheng-liu%E5%88%98%E6%99%9F/</link>
-      <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/author/sheng-liu%E5%88%98%E6%99%9F/</guid>
-      <description>&lt;p&gt;这里是个人介绍&lt;/p&gt;
-</description>
+      <title>MMDA: Multi-person Marginal Distribution Awareness for Monocular 3D Pose Estimation</title>
+      <link>https://nju-ee.github.io/publication/mmda/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/mmda/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -34,14 +50,6 @@
       <link>https://nju-ee.github.io/publication/3d-human-pose-estimation/</link>
       <pubDate>Fri, 04 Mar 2022 00:00:00 +0000</pubDate>
       <guid>https://nju-ee.github.io/publication/3d-human-pose-estimation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MMDA: Multi-person Marginal Distribution Awareness for Monocular 3D Pose Estimation</title>
-      <link>https://nju-ee.github.io/publication/mmda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/mmda/</guid>
       <description></description>
     </item>
     

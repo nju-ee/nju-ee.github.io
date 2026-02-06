@@ -5,7 +5,7 @@
     <link>https://nju-ee.github.io/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/</link>
       <atom:link href="https://nju-ee.github.io/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/index.xml" rel="self" type="application/rss+xml" />
     <description>Chaofan Wu(武超凡)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nju-ee.github.io/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/avatar_hu2b048b503a2e85d840e474239028f1c8_3580240_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Chaofan Wu(武超凡)</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>ATHENA - Autonomous Vehicle Trajectory Planning Considered Human Action Awareness</title>
+      <link>https://nju-ee.github.io/publication/athena/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/athena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Chaofan Wu(武超凡)</title>
       <link>https://nju-ee.github.io/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://nju-ee.github.io/author/chaofan-wu%E6%AD%A6%E8%B6%85%E5%87%A1/</guid>
       <description></description>
     </item>

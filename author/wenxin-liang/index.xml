@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wenxin Liang | VAIS @ NJU</title>
+    <link>https://nju-ee.github.io/author/wenxin-liang/</link>
+      <atom:link href="https://nju-ee.github.io/author/wenxin-liang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenxin Liang</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 25 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <title>Wenxin Liang</title>
+      <link>https://nju-ee.github.io/author/wenxin-liang/</link>
+    </image>
+    
+    <item>
+      <title> Zero-shot Video Moment Retrieval via Off-the-shelf Multimodal Large Language Models</title>
+      <link>https://nju-ee.github.io/publication/zero-shot/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/zero-shot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

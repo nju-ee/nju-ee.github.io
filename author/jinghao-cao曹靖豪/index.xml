@@ -5,7 +5,7 @@
     <link>https://nju-ee.github.io/author/jinghao-cao%E6%9B%B9%E9%9D%96%E8%B1%AA/</link>
       <atom:link href="https://nju-ee.github.io/author/jinghao-cao%E6%9B%B9%E9%9D%96%E8%B1%AA/index.xml" rel="self" type="application/rss+xml" />
     <description>Jinghao Cao(曹靖豪)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 06 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 10 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nju-ee.github.io/author/jinghao-cao%E6%9B%B9%E9%9D%96%E8%B1%AA/avatar_hu43c44fdf07f3be6d6bd27265fb2e5731_3310351_270x270_fill_lanczos_center_3.png</url>
       <title>Jinghao Cao(曹靖豪)</title>
@@ -13,20 +13,28 @@
     </image>
     
     <item>
-      <title>CasOmniMVS: Cascade Omnidirectional Depth Estimation with Dynamic Spherical Sweeping</title>
-      <link>https://nju-ee.github.io/publication/casomnimvs/</link>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/casomnimvs/</guid>
+      <title>ATHENA - Autonomous Vehicle Trajectory Planning Considered Human Action Awareness</title>
+      <link>https://nju-ee.github.io/publication/athena/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/athena/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Jinghao Cao(曹靖豪)</title>
       <link>https://nju-ee.github.io/author/jinghao-cao%E6%9B%B9%E9%9D%96%E8%B1%AA/</link>
-      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
       <guid>https://nju-ee.github.io/author/jinghao-cao%E6%9B%B9%E9%9D%96%E8%B1%AA/</guid>
       <description>&lt;p&gt;这里是个人介绍&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>CasOmniMVS: Cascade Omnidirectional Depth Estimation with Dynamic Spherical Sweeping</title>
+      <link>https://nju-ee.github.io/publication/casomnimvs/</link>
+      <pubDate>Sat, 06 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/casomnimvs/</guid>
+      <description></description>
     </item>
     
   </channel>

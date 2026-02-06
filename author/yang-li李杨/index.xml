@@ -5,7 +5,7 @@
     <link>https://nju-ee.github.io/author/yang-li%E6%9D%8E%E6%9D%A8/</link>
       <atom:link href="https://nju-ee.github.io/author/yang-li%E6%9D%8E%E6%9D%A8/index.xml" rel="self" type="application/rss+xml" />
     <description>Yang Li(李杨)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nju-ee.github.io/author/yang-li%E6%9D%8E%E6%9D%A8/avatar_hu9edce20d0a5dfa53d0e6865a73c16c78_73185_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Yang Li(李杨)</title>
@@ -13,20 +13,60 @@
     </image>
     
     <item>
-      <title>Distribution-aware Activity Boundary Representation for Online Detection of Action Start in Untrimmed Videos</title>
-      <link>https://nju-ee.github.io/publication/online-detection-of-action/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/online-detection-of-action/</guid>
+      <title>FaceSnap: Enhanced ID-Fidelity Network forTuning-Free Portrait Customization</title>
+      <link>https://nju-ee.github.io/publication/facesnap/</link>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/facesnap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yang Li(李杨)</title>
       <link>https://nju-ee.github.io/author/yang-li%E6%9D%8E%E6%9D%A8/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
       <guid>https://nju-ee.github.io/author/yang-li%E6%9D%8E%E6%9D%A8/</guid>
       <description>&lt;p&gt;在计算机视觉领域。我们的研究兴趣集中利用计算机视觉技术对环境进行三维感知和对环境图像进行语义理解。我们围绕着机器人导航、自动驾驶等应用场景下的多种三维感知技术进行研究。在双目及多目立体视觉被动感知技术方面，我们首次提出了利用帧间相关性加速视频序列中的立体匹配问题，该方法在不降低视差计算精度的前提可以显著提升基于深度学习和非深度学习方法的立体匹配速度，我们在嵌入式系统中实现的双目立体视觉系统达到了国际先进水平。我们同时在激光雷达点云的语义分割、配准上也取得众多成果，利用算法优化和GPU加速我们实现在低功耗嵌入式平台上的实时三维重建。针对机器人导航、自动驾驶等应用场景，我们进一步发展和完善了双目视觉的同步定位与地图构建问题，提出并实现了利用深度图像加速地图构建。此外，我们在目标识别、图像语义分析等领域也取得若干成果，例如我们针对多模态图像中的目标识别问题提出了全新的深度网络架构和数据增强及训练方法，显著提升了算法的性能。&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion</title>
+      <link>https://nju-ee.github.io/publication/hifi-portrait/</link>
+      <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/hifi-portrait/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ATHENA - Autonomous Vehicle Trajectory Planning Considered Human Action Awareness</title>
+      <link>https://nju-ee.github.io/publication/athena/</link>
+      <pubDate>Thu, 10 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/athena/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title> Zero-shot Video Moment Retrieval via Off-the-shelf Multimodal Large Language Models</title>
+      <link>https://nju-ee.github.io/publication/zero-shot/</link>
+      <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/zero-shot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion</title>
+      <link>https://nju-ee.github.io/publication/the-patch-based-multi-task/</link>
+      <pubDate>Thu, 30 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/the-patch-based-multi-task/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution-aware Activity Boundary Representation for Online Detection of Action Start in Untrimmed Videos</title>
+      <link>https://nju-ee.github.io/publication/online-detection-of-action/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/online-detection-of-action/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -50,6 +90,30 @@
       <link>https://nju-ee.github.io/publication/3d-associative-embedding/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
       <guid>https://nju-ee.github.io/publication/3d-associative-embedding/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GazeFollowTR: A Method of Gaze Following with Reborn Mechanism</title>
+      <link>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</link>
+      <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MMDA: Multi-person Marginal Distribution Awareness for Monocular 3D Pose Estimation</title>
+      <link>https://nju-ee.github.io/publication/mmda/</link>
+      <pubDate>Thu, 16 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/mmda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The multi-learning for food analyses in computer vision: a survey</title>
+      <link>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</link>
+      <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</guid>
       <description></description>
     </item>
     
@@ -118,6 +182,14 @@
     </item>
     
     <item>
+      <title>Pyramid Feature Attention Network for Monocular Depth Prediction</title>
+      <link>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</link>
+      <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Review on Quantitative Analyzing Axonal Transport of Mitochondria</title>
       <link>https://nju-ee.github.io/publication/quantitative-analyzing/</link>
       <pubDate>Thu, 08 Apr 2021 00:00:00 +0000</pubDate>
@@ -138,38 +210,6 @@
       <link>https://nju-ee.github.io/publication/image-processing-facilitating-retinanet-for-detecting-small-objects/</link>
       <pubDate>Mon, 22 Feb 2021 00:00:00 +0000</pubDate>
       <guid>https://nju-ee.github.io/publication/image-processing-facilitating-retinanet-for-detecting-small-objects/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GazeFollowTR: A Method of Gaze Following with Reborn Mechanism</title>
-      <link>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>MMDA: Multi-person Marginal Distribution Awareness for Monocular 3D Pose Estimation</title>
-      <link>https://nju-ee.github.io/publication/mmda/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/mmda/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pyramid Feature Attention Network for Monocular Depth Prediction</title>
-      <link>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The multi-learning for food analyses in computer vision: a survey</title>
-      <link>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</guid>
       <description></description>
     </item>
     
