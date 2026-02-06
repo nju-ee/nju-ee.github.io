@@ -102,10 +102,26 @@
     </item>
     
     <item>
+      <title>Disparity Distribution Equalization: An Effective Data Enhancement for Stereo Matching</title>
+      <link>http://localhost:1313/publication/disparity-distribution-equalization/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/disparity-distribution-equalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Real-Time Method for Railway Track Detection and 3D Fitting Based on Camera and LiDAR Fusion Sensing</title>
       <link>http://localhost:1313/publication/real-time-railway/</link>
       <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/real-time-railway/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robust Artificial Intelligence-Aided Multimodal Rail-Obstacle Detection Method by Rail Track Topology Reconstruction</title>
+      <link>http://localhost:1313/publication/robust-artificial-intelligence-aided/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robust-artificial-intelligence-aided/</guid>
       <description></description>
     </item>
     

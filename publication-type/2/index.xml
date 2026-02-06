@@ -69,6 +69,14 @@
     </item>
     
     <item>
+      <title>Multi-View Weakly-Supervised 3D Human Pose Estimation for Depth Maps via SoG With Semantic Segmentation Information</title>
+      <link>http://localhost:1313/publication/multi-view-weakly-supervised-3d/</link>
+      <pubDate>Mon, 08 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/multi-view-weakly-supervised-3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>DPCalib: Dual-Perspective View Network for LiDAR-Camera Joint Calibration</title>
       <link>http://localhost:1313/publication/dpcalib/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
@@ -85,10 +93,26 @@
     </item>
     
     <item>
+      <title>Robust Artificial Intelligence-Aided Multimodal Rail-Obstacle Detection Method by Rail Track Topology Reconstruction</title>
+      <link>http://localhost:1313/publication/robust-artificial-intelligence-aided/</link>
+      <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/robust-artificial-intelligence-aided/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Time-attentive fusion network: An efficient model for online detection of action start</title>
       <link>http://localhost:1313/publication/time-attentive-fusion-network/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/time-attentive-fusion-network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VTG-GPT: Tuning-Free Zero-Shot Video Temporal Grounding with GPT</title>
+      <link>http://localhost:1313/publication/vtg-gpt/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vtg-gpt/</guid>
       <description></description>
     </item>
     

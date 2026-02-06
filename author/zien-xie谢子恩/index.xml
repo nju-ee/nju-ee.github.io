@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/zien-xie%E8%B0%A2%E5%AD%90%E6%81%A9/</link>
       <atom:link href="http://localhost:1313/author/zien-xie%E8%B0%A2%E5%AD%90%E6%81%A9/index.xml" rel="self" type="application/rss+xml" />
     <description>Zien Xie(谢子恩)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/zien-xie%E8%B0%A2%E5%AD%90%E6%81%A9/avatar_hu367af3861af602136880d20f9832bf04_3450738_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Zien Xie(谢子恩)</title>
@@ -13,20 +13,36 @@
     </image>
     
     <item>
-      <title>GPTSee: Enhancing Moment Retrieval and Highlight Detection via Description-Based Similarity Features</title>
-      <link>http://localhost:1313/publication/gptsee/</link>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/gptsee/</guid>
+      <title>Modal Fusion and Query Refinement Network for Video Moment Retrieval and Highlight Detection</title>
+      <link>http://localhost:1313/publication/modal-fusion-and-query-refinement/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/modal-fusion-and-query-refinement/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zien Xie(谢子恩)</title>
       <link>http://localhost:1313/author/zien-xie%E8%B0%A2%E5%AD%90%E6%81%A9/</link>
-      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/author/zien-xie%E8%B0%A2%E5%AD%90%E6%81%A9/</guid>
       <description>&lt;p&gt;这里是个人介绍&lt;/p&gt;
 </description>
+    </item>
+    
+    <item>
+      <title>VTG-GPT: Tuning-Free Zero-Shot Video Temporal Grounding with GPT</title>
+      <link>http://localhost:1313/publication/vtg-gpt/</link>
+      <pubDate>Mon, 04 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/vtg-gpt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GPTSee: Enhancing Moment Retrieval and Highlight Detection via Description-Based Similarity Features</title>
+      <link>http://localhost:1313/publication/gptsee/</link>
+      <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/gptsee/</guid>
+      <description></description>
     </item>
     
   </channel>

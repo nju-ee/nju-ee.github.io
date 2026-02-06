@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/jiaxuan-zheng%E9%83%91%E5%98%89%E7%92%87/</link>
       <atom:link href="http://localhost:1313/author/jiaxuan-zheng%E9%83%91%E5%98%89%E7%92%87/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaxuan Zheng(郑嘉璇)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
       <title>Jiaxuan Zheng(郑嘉璇)</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Disparity Distribution Equalization: An Effective Data Enhancement for Stereo Matching</title>
+      <link>http://localhost:1313/publication/disparity-distribution-equalization/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/disparity-distribution-equalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jiaxuan Zheng(郑嘉璇)</title>
       <link>http://localhost:1313/author/jiaxuan-zheng%E9%83%91%E5%98%89%E7%92%87/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/author/jiaxuan-zheng%E9%83%91%E5%98%89%E7%92%87/</guid>
       <description>&lt;p&gt;这里是个人介绍&lt;/p&gt;
 </description>

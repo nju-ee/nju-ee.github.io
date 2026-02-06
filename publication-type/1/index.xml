@@ -37,10 +37,26 @@
     </item>
     
     <item>
+      <title>Modal Fusion and Query Refinement Network for Video Moment Retrieval and Highlight Detection</title>
+      <link>http://localhost:1313/publication/modal-fusion-and-query-refinement/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/modal-fusion-and-query-refinement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>MH-DETR: Video Moment and Highlight Detection with Cross-modal Transformer</title>
       <link>http://localhost:1313/publication/mh-detr/</link>
       <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/mh-detr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Disparity Distribution Equalization: An Effective Data Enhancement for Stereo Matching</title>
+      <link>http://localhost:1313/publication/disparity-distribution-equalization/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/disparity-distribution-equalization/</guid>
       <description></description>
     </item>
     

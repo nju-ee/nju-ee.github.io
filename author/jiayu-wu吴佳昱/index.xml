@@ -5,7 +5,7 @@
     <link>http://localhost:1313/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/</link>
       <atom:link href="http://localhost:1313/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiayu Wu(吴佳昱)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 24 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/avatar_hub6fadb0e51f98ea078ce175558974787_543558_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiayu Wu(吴佳昱)</title>
@@ -13,9 +13,17 @@
     </image>
     
     <item>
+      <title>Disparity Distribution Equalization: An Effective Data Enhancement for Stereo Matching</title>
+      <link>http://localhost:1313/publication/disparity-distribution-equalization/</link>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/disparity-distribution-equalization/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Jiayu Wu(吴佳昱)</title>
       <link>http://localhost:1313/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 24 Apr 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/author/jiayu-wu%E5%90%B4%E4%BD%B3%E6%98%B1/</guid>
       <description></description>
     </item>

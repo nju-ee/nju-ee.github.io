@@ -5,12 +5,20 @@
     <link>http://localhost:1313/author/youyao-jia/</link>
       <atom:link href="http://localhost:1313/author/youyao-jia/index.xml" rel="self" type="application/rss+xml" />
     <description>Youyao Jia</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 30 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
       <title>Youyao Jia</title>
       <link>http://localhost:1313/author/youyao-jia/</link>
     </image>
+    
+    <item>
+      <title>Modal Fusion and Query Refinement Network for Video Moment Retrieval and Highlight Detection</title>
+      <link>http://localhost:1313/publication/modal-fusion-and-query-refinement/</link>
+      <pubDate>Mon, 30 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/modal-fusion-and-query-refinement/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>MH-DETR: Video Moment and Highlight Detection with Cross-modal Transformer</title>
