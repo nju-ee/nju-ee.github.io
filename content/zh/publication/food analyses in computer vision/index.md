@@ -10,11 +10,11 @@ authors:
   
 #author_notes:
   
-date: '2023'
+date: '2023-01-26T00:00:00Z'
 doi: 'https://doi.org/10.1007/s11042-023-14373-6'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023'
+publishDate: '2023-01-26T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

@@ -10,7 +10,7 @@ authors:
 #author_notes:
   
 date: '2023-11-17T00:00:00Z'
-doi: ''
+doi: '10.1109/UEMCON59035.2023.10316039'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2023-11-17T00:00:00Z'

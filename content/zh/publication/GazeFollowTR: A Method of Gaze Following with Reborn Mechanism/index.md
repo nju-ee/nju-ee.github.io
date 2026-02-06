@@ -10,11 +10,11 @@ authors:
   
 #author_notes:
   
-date: '2022'
+date: '2023-06-16T00:00:00Z'
 doi: 'https://doi.org/10.1587/transfun.2022EAP1068'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2022'
+publishDate: '2023-06-16T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

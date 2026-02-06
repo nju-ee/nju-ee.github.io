@@ -9,11 +9,11 @@ authors:
   
 #author_notes:
   
-date: '2023'
+date: '2023-03-16T00:00:00Z'
 doi: 'https://doi.org/10.1049/ipr2.12783'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2023'
+publishDate: '2023-03-16T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;

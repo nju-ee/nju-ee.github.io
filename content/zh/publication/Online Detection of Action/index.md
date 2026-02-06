@@ -11,7 +11,7 @@ authors:
 #author_notes:
   
 date: '2024-01-10T00:00:00Z'
-doi: ''
+doi: '10.1109/LSP.2024.3352503'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-01-10T00:00:00Z'
