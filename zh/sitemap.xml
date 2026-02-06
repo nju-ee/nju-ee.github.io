@@ -156,17 +156,35 @@
       href="https://nju-ee.github.io/post/"
     /></url>
   <url>
+    <loc>https://nju-ee.github.io/publication/ares/</loc><lastmod>2024-10-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://nju-ee.github.io/author/xiong-yang%E6%9D%A8%E9%9B%84/</loc><lastmod>2024-10-15T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://nju-ee.github.io/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/</loc><lastmod>2024-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://nju-ee.github.io/publication/tig/</loc><lastmod>2024-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://nju-ee.github.io/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</loc><lastmod>2024-09-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://nju-ee.github.io/publication/dpcalib/</loc><lastmod>2024-05-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://nju-ee.github.io/author/tiejian-tang%E5%94%90%E9%93%81%E5%81%A5/</loc><lastmod>2024-05-13T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://nju-ee.github.io/publication/online-detection-of-action/</loc><lastmod>2024-01-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://nju-ee.github.io/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/</loc><lastmod>2024-01-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://nju-ee.github.io/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</loc><lastmod>2024-01-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://nju-ee.github.io/post/24-01-10-ieeespl-accept/</loc><lastmod>2024-01-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://nju-ee.github.io/publication/casomnimvs/</loc><lastmod>2024-01-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://nju-ee.github.io/author/pinzhi-wang%E7%8E%8B%E5%93%81%E6%99%BA/</loc><lastmod>2024-01-06T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://nju-ee.github.io/publication/gptsee/</loc><lastmod>2023-12-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://nju-ee.github.io/author/yukun-shu/</loc><lastmod>2023-12-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://nju-ee.github.io/author/yunzhuo-sun/</loc><lastmod>2023-12-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://nju-ee.github.io/author/zien-xie%E8%B0%A2%E5%AD%90%E6%81%A9/</loc><lastmod>2023-12-04T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://nju-ee.github.io/publication/monocular/</loc><lastmod>2023-11-17T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -290,15 +308,11 @@
   <url>
     <loc>https://nju-ee.github.io/author/tianhao-lu%E9%99%86%E5%A4%A9%E6%98%8A/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://nju-ee.github.io/author/tiejian-tang%E5%94%90%E9%93%81%E5%81%A5/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>https://nju-ee.github.io/video_understanding_research_group.page/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://nju-ee.github.io/author/wencong-cai%E8%94%A1%E6%96%87%E8%81%AA/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://nju-ee.github.io/author/xiangxiang-wang%E7%8E%8B%E7%A5%A5%E7%A5%A5/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://nju-ee.github.io/author/xiong-yang%E6%9D%A8%E9%9B%84/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://nju-ee.github.io/author/yemeng-chen%E9%99%88%E5%8F%B6%E6%9C%A6/</loc><changefreq>weekly</changefreq></url>
   <url>
@@ -311,8 +325,6 @@
     <loc>https://nju-ee.github.io/author/yuqiu-zhu%E6%9C%B1%E9%9B%A8%E7%A7%8B/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://nju-ee.github.io/author/zhiyuan-wang%E7%8E%8B%E4%B9%8B%E6%B8%8A/</loc><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://nju-ee.github.io/author/zien-xie%E8%B0%A2%E5%AD%90%E6%81%A9/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://nju-ee.github.io/author/zihang-gao%E9%AB%98%E6%A2%93%E8%88%AA/</loc><changefreq>weekly</changefreq></url>
   <url>

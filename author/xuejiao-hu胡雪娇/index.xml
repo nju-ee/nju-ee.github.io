@@ -5,7 +5,7 @@
     <link>https://nju-ee.github.io/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</link>
       <atom:link href="https://nju-ee.github.io/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuejiao Hu(胡雪娇)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Wed, 10 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
       <title>Xuejiao Hu(胡雪娇)</title>
@@ -13,18 +13,26 @@
     </image>
     
     <item>
-      <title>Distribution-aware Activity Boundary Representation for Online Detection of Action Start in Untrimmed Videos</title>
-      <link>https://nju-ee.github.io/publication/online-detection-of-action/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/online-detection-of-action/</guid>
+      <title>TIG: A Multitask Temporal Interval Guided Framework for Key Frame Detection</title>
+      <link>https://nju-ee.github.io/publication/tig/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/tig/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xuejiao Hu(胡雪娇)</title>
       <link>https://nju-ee.github.io/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</link>
-      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
       <guid>https://nju-ee.github.io/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Distribution-aware Activity Boundary Representation for Online Detection of Action Start in Untrimmed Videos</title>
+      <link>https://nju-ee.github.io/publication/online-detection-of-action/</link>
+      <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://nju-ee.github.io/publication/online-detection-of-action/</guid>
       <description></description>
     </item>
     
