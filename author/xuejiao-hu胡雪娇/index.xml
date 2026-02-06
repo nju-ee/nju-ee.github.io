@@ -2,69 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xuejiao Hu(胡雪娇) | VAIS @ NJU</title>
-    <link>https://nju-ee.github.io/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</link>
-      <atom:link href="https://nju-ee.github.io/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</link>
+      <atom:link href="http://localhost:1313/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/index.xml" rel="self" type="application/rss+xml" />
     <description>Xuejiao Hu(胡雪娇)</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sat, 28 Dec 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
       <title>Xuejiao Hu(胡雪娇)</title>
-      <link>https://nju-ee.github.io/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</link>
+      <link>http://localhost:1313/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</link>
     </image>
     
     <item>
-      <title>TIG: A Multitask Temporal Interval Guided Framework for Key Frame Detection</title>
-      <link>https://nju-ee.github.io/publication/tig/</link>
-      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/tig/</guid>
+      <title>An efficient action proposal processing approach for temporal action detection</title>
+      <link>http://localhost:1313/publication/temporal-action-detection/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/temporal-action-detection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xuejiao Hu(胡雪娇)</title>
-      <link>https://nju-ee.github.io/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</link>
+      <link>http://localhost:1313/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</link>
+      <pubDate>Sat, 28 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TIG: A Multitask Temporal Interval Guided Framework for Key Frame Detection</title>
+      <link>http://localhost:1313/publication/tig/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/author/xuejiao-hu%E8%83%A1%E9%9B%AA%E5%A8%87/</guid>
+      <guid>http://localhost:1313/publication/tig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-attentive fusion network: An efficient model for online detection of action start</title>
+      <link>http://localhost:1313/publication/time-attentive-fusion-network/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/time-attentive-fusion-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution-aware Activity Boundary Representation for Online Detection of Action Start in Untrimmed Videos</title>
-      <link>https://nju-ee.github.io/publication/online-detection-of-action/</link>
+      <link>http://localhost:1313/publication/online-detection-of-action/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/online-detection-of-action/</guid>
+      <guid>http://localhost:1313/publication/online-detection-of-action/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GazeFollowTR: A Method of Gaze Following with Reborn Mechanism</title>
-      <link>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</link>
+      <link>http://localhost:1313/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</link>
       <pubDate>Fri, 16 Jun 2023 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</guid>
+      <guid>http://localhost:1313/publication/gazefollowtr-a-method-of-gaze-following-with-reborn-mechanism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The multi-learning for food analyses in computer vision: a survey</title>
-      <link>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</link>
+      <link>http://localhost:1313/publication/food-analyses-in-computer-vision/</link>
       <pubDate>Thu, 26 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/food-analyses-in-computer-vision/</guid>
+      <guid>http://localhost:1313/publication/food-analyses-in-computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Online human action detection and anticipation in videos: A survey</title>
-      <link>https://nju-ee.github.io/publication/online-human-action/</link>
+      <link>http://localhost:1313/publication/online-human-action/</link>
       <pubDate>Tue, 28 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/online-human-action/</guid>
+      <guid>http://localhost:1313/publication/online-human-action/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Omnidirectional stereo depth estimation based on spherical deep network</title>
-      <link>https://nju-ee.github.io/publication/omnidirectional-stereo-depth/</link>
+      <link>http://localhost:1313/publication/omnidirectional-stereo-depth/</link>
       <pubDate>Mon, 23 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/omnidirectional-stereo-depth/</guid>
+      <guid>http://localhost:1313/publication/omnidirectional-stereo-depth/</guid>
       <description></description>
     </item>
     

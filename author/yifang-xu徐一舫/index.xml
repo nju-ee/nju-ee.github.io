@@ -2,70 +2,78 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yifang Xu(徐一舫) | VAIS @ NJU</title>
-    <link>https://nju-ee.github.io/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
-      <atom:link href="https://nju-ee.github.io/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
+      <atom:link href="http://localhost:1313/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/index.xml" rel="self" type="application/rss+xml" />
     <description>Yifang Xu(徐一舫)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 09 Sep 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
       <title>Yifang Xu(徐一舫)</title>
-      <link>https://nju-ee.github.io/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
+      <link>http://localhost:1313/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
     </image>
     
     <item>
       <title>FaceSnap: Enhanced ID-Fidelity Network forTuning-Free Portrait Customization</title>
-      <link>https://nju-ee.github.io/publication/facesnap/</link>
+      <link>http://localhost:1313/publication/facesnap/</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/facesnap/</guid>
+      <guid>http://localhost:1313/publication/facesnap/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yifang Xu(徐一舫)</title>
-      <link>https://nju-ee.github.io/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
+      <link>http://localhost:1313/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</link>
       <pubDate>Tue, 09 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</guid>
+      <guid>http://localhost:1313/author/yifang-xu%E5%BE%90%E4%B8%80%E8%88%AB/</guid>
       <description>&lt;p&gt;这里是个人介绍&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>HiFi-Portrait: Zero-shot Identity-preserved Portrait Generation with High-fidelity Multi-face Fusion</title>
-      <link>https://nju-ee.github.io/publication/hifi-portrait/</link>
+      <link>http://localhost:1313/publication/hifi-portrait/</link>
       <pubDate>Wed, 11 Jun 2025 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/hifi-portrait/</guid>
+      <guid>http://localhost:1313/publication/hifi-portrait/</guid>
       <description></description>
     </item>
     
     <item>
       <title> Zero-shot Video Moment Retrieval via Off-the-shelf Multimodal Large Language Models</title>
-      <link>https://nju-ee.github.io/publication/zero-shot/</link>
+      <link>http://localhost:1313/publication/zero-shot/</link>
       <pubDate>Tue, 25 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/zero-shot/</guid>
+      <guid>http://localhost:1313/publication/zero-shot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HP3: Tuning-Free Head-Preserving Portrait Personalization Via 3D-Controlled Diffusion Models</title>
-      <link>https://nju-ee.github.io/publication/hp3/</link>
+      <link>http://localhost:1313/publication/hp3/</link>
       <pubDate>Mon, 27 Jan 2025 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/hp3/</guid>
+      <guid>http://localhost:1313/publication/hp3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MH-DETR: Video Moment and Highlight Detection with Cross-modal Transformer</title>
+      <link>http://localhost:1313/publication/mh-detr/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mh-detr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>GPTSee: Enhancing Moment Retrieval and Highlight Detection via Description-Based Similarity Features</title>
-      <link>https://nju-ee.github.io/publication/gptsee/</link>
+      <link>http://localhost:1313/publication/gptsee/</link>
       <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/gptsee/</guid>
+      <guid>http://localhost:1313/publication/gptsee/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pyramid Feature Attention Network for Monocular Depth Prediction</title>
-      <link>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</link>
+      <link>http://localhost:1313/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</link>
       <pubDate>Mon, 05 Jul 2021 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</guid>
+      <guid>http://localhost:1313/publication/pyramid-feature-attention-network-for-monocular-depth-prediction/</guid>
       <description></description>
     </item>
     

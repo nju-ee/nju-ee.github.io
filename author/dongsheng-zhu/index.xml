@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dongsheng Zhu | VAIS @ NJU</title>
+    <link>http://localhost:1313/author/dongsheng-zhu/</link>
+      <atom:link href="http://localhost:1313/author/dongsheng-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Dongsheng Zhu</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 15 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <title>Dongsheng Zhu</title>
+      <link>http://localhost:1313/author/dongsheng-zhu/</link>
+    </image>
+    
+    <item>
+      <title>A Real-Time Method for Railway Track Detection and 3D Fitting Based on Camera and LiDAR Fusion Sensing</title>
+      <link>http://localhost:1313/publication/real-time-railway/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/real-time-railway/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

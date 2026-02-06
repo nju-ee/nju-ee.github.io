@@ -2,21 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yunzhuo Sun | VAIS @ NJU</title>
-    <link>https://nju-ee.github.io/author/yunzhuo-sun/</link>
-      <atom:link href="https://nju-ee.github.io/author/yunzhuo-sun/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/yunzhuo-sun/</link>
+      <atom:link href="http://localhost:1313/author/yunzhuo-sun/index.xml" rel="self" type="application/rss+xml" />
     <description>Yunzhuo Sun</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Mon, 04 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 30 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
       <title>Yunzhuo Sun</title>
-      <link>https://nju-ee.github.io/author/yunzhuo-sun/</link>
+      <link>http://localhost:1313/author/yunzhuo-sun/</link>
     </image>
     
     <item>
+      <title>MH-DETR: Video Moment and Highlight Detection with Cross-modal Transformer</title>
+      <link>http://localhost:1313/publication/mh-detr/</link>
+      <pubDate>Sun, 30 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/mh-detr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GPTSee: Enhancing Moment Retrieval and Highlight Detection via Description-Based Similarity Features</title>
-      <link>https://nju-ee.github.io/publication/gptsee/</link>
+      <link>http://localhost:1313/publication/gptsee/</link>
       <pubDate>Mon, 04 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/gptsee/</guid>
+      <guid>http://localhost:1313/publication/gptsee/</guid>
       <description></description>
     </item>
     

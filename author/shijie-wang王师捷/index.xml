@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Shijie Wang(王师捷) | VAIS @ NJU</title>
-    <link>https://nju-ee.github.io/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/</link>
-      <atom:link href="https://nju-ee.github.io/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/</link>
+      <atom:link href="http://localhost:1313/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/index.xml" rel="self" type="application/rss+xml" />
     <description>Shijie Wang(王师捷)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nju-ee.github.io/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/avatar_hu45bf570f802de5afc70ade6371dc24bd_395950_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/avatar_hu45bf570f802de5afc70ade6371dc24bd_395950_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Shijie Wang(王师捷)</title>
-      <link>https://nju-ee.github.io/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/</link>
+      <link>http://localhost:1313/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/</link>
     </image>
     
     <item>
       <title>Shijie Wang(王师捷)</title>
-      <link>https://nju-ee.github.io/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/</link>
+      <link>http://localhost:1313/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/</guid>
+      <guid>http://localhost:1313/author/shijie-wang%E7%8E%8B%E5%B8%88%E6%8D%B7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>TIG: A Multitask Temporal Interval Guided Framework for Key Frame Detection</title>
-      <link>https://nju-ee.github.io/publication/tig/</link>
+      <link>http://localhost:1313/publication/tig/</link>
       <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/tig/</guid>
+      <guid>http://localhost:1313/publication/tig/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Time-attentive fusion network: An efficient model for online detection of action start</title>
+      <link>http://localhost:1313/publication/time-attentive-fusion-network/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/time-attentive-fusion-network/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Distribution-aware Activity Boundary Representation for Online Detection of Action Start in Untrimmed Videos</title>
-      <link>https://nju-ee.github.io/publication/online-detection-of-action/</link>
+      <link>http://localhost:1313/publication/online-detection-of-action/</link>
       <pubDate>Wed, 10 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/online-detection-of-action/</guid>
+      <guid>http://localhost:1313/publication/online-detection-of-action/</guid>
       <description></description>
     </item>
     

@@ -2,37 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xiong Yang(杨雄) | VAIS @ NJU</title>
-    <link>https://nju-ee.github.io/author/xiong-yang%E6%9D%A8%E9%9B%84/</link>
-      <atom:link href="https://nju-ee.github.io/author/xiong-yang%E6%9D%A8%E9%9B%84/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/xiong-yang%E6%9D%A8%E9%9B%84/</link>
+      <atom:link href="http://localhost:1313/author/xiong-yang%E6%9D%A8%E9%9B%84/index.xml" rel="self" type="application/rss+xml" />
     <description>Xiong Yang(杨雄)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nju-ee.github.io/author/xiong-yang%E6%9D%A8%E9%9B%84/avatar_hu33de65b44daab59ba806a901a6d203d4_12291_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/xiong-yang%E6%9D%A8%E9%9B%84/avatar_hu33de65b44daab59ba806a901a6d203d4_12291_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Xiong Yang(杨雄)</title>
-      <link>https://nju-ee.github.io/author/xiong-yang%E6%9D%A8%E9%9B%84/</link>
+      <link>http://localhost:1313/author/xiong-yang%E6%9D%A8%E9%9B%84/</link>
     </image>
     
     <item>
       <title>ARES: Text-Driven Automatic Realistic Simulator for Autonomous Traffic</title>
-      <link>https://nju-ee.github.io/publication/ares/</link>
+      <link>http://localhost:1313/publication/ares/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/ares/</guid>
+      <guid>http://localhost:1313/publication/ares/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Xiong Yang(杨雄)</title>
-      <link>https://nju-ee.github.io/author/xiong-yang%E6%9D%A8%E9%9B%84/</link>
+      <link>http://localhost:1313/author/xiong-yang%E6%9D%A8%E9%9B%84/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/author/xiong-yang%E6%9D%A8%E9%9B%84/</guid>
+      <guid>http://localhost:1313/author/xiong-yang%E6%9D%A8%E9%9B%84/</guid>
       <description></description>
     </item>
     
     <item>
       <title>DPCalib: Dual-Perspective View Network for LiDAR-Camera Joint Calibration</title>
-      <link>https://nju-ee.github.io/publication/dpcalib/</link>
+      <link>http://localhost:1313/publication/dpcalib/</link>
       <pubDate>Mon, 13 May 2024 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/dpcalib/</guid>
+      <guid>http://localhost:1313/publication/dpcalib/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Real-Time Method for Railway Track Detection and 3D Fitting Based on Camera and LiDAR Fusion Sensing</title>
+      <link>http://localhost:1313/publication/real-time-railway/</link>
+      <pubDate>Mon, 15 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/real-time-railway/</guid>
       <description></description>
     </item>
     

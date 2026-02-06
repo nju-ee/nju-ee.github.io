@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jiaheng Li(李嘉恒) | VAIS @ NJU</title>
-    <link>https://nju-ee.github.io/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/</link>
-      <atom:link href="https://nju-ee.github.io/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/</link>
+      <atom:link href="http://localhost:1313/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/index.xml" rel="self" type="application/rss+xml" />
     <description>Jiaheng Li(李嘉恒)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://nju-ee.github.io/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/avatar_huc004e76d04b40716914705ad61810708_93282_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>http://localhost:1313/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/avatar_huc004e76d04b40716914705ad61810708_93282_270x270_fill_q75_lanczos_center.jpg</url>
       <title>Jiaheng Li(李嘉恒)</title>
-      <link>https://nju-ee.github.io/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/</link>
+      <link>http://localhost:1313/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/</link>
     </image>
     
     <item>
       <title>Jiaheng Li(李嘉恒)</title>
-      <link>https://nju-ee.github.io/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/</link>
+      <link>http://localhost:1313/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/</guid>
+      <guid>http://localhost:1313/author/jiaheng-li%E6%9D%8E%E5%98%89%E6%81%92/</guid>
       <description></description>
     </item>
     

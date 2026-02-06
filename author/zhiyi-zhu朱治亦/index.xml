@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zhiyi Zhu(朱治亦) | VAIS @ NJU</title>
-    <link>https://nju-ee.github.io/author/zhiyi-zhu%E6%9C%B1%E6%B2%BB%E4%BA%A6/</link>
-      <atom:link href="https://nju-ee.github.io/author/zhiyi-zhu%E6%9C%B1%E6%B2%BB%E4%BA%A6/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/author/zhiyi-zhu%E6%9C%B1%E6%B2%BB%E4%BA%A6/</link>
+      <atom:link href="http://localhost:1313/author/zhiyi-zhu%E6%9C%B1%E6%B2%BB%E4%BA%A6/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhiyi Zhu(朱治亦)</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language><lastBuildDate>Thu, 27 Jul 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://nju-ee.github.io/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_huaf24208aa2613587e2d3d60da524e188_42332_512x512_fill_lanczos_center_3.png</url>
       <title>Zhiyi Zhu(朱治亦)</title>
-      <link>https://nju-ee.github.io/author/zhiyi-zhu%E6%9C%B1%E6%B2%BB%E4%BA%A6/</link>
+      <link>http://localhost:1313/author/zhiyi-zhu%E6%9C%B1%E6%B2%BB%E4%BA%A6/</link>
     </image>
     
     <item>
       <title>3D Associative Embedding: Multi-View 3D Human Pose Estimation in Crowded Scenes</title>
-      <link>https://nju-ee.github.io/publication/3d-associative-embedding/</link>
+      <link>http://localhost:1313/publication/3d-associative-embedding/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/publication/3d-associative-embedding/</guid>
+      <guid>http://localhost:1313/publication/3d-associative-embedding/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Zhiyi Zhu(朱治亦)</title>
-      <link>https://nju-ee.github.io/author/zhiyi-zhu%E6%9C%B1%E6%B2%BB%E4%BA%A6/</link>
+      <link>http://localhost:1313/author/zhiyi-zhu%E6%9C%B1%E6%B2%BB%E4%BA%A6/</link>
       <pubDate>Thu, 27 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://nju-ee.github.io/author/zhiyi-zhu%E6%9C%B1%E6%B2%BB%E4%BA%A6/</guid>
+      <guid>http://localhost:1313/author/zhiyi-zhu%E6%9C%B1%E6%B2%BB%E4%BA%A6/</guid>
       <description>&lt;p&gt;这里是个人介绍&lt;/p&gt;
 </description>
     </item>
