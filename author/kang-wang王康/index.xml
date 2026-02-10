@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Kang Wang(王康) | VAIS @ NJU</title>
+    <link>http://localhost:1313/author/kang-wang%E7%8E%8B%E5%BA%B7/</link>
+      <atom:link href="http://localhost:1313/author/kang-wang%E7%8E%8B%E5%BA%B7/index.xml" rel="self" type="application/rss+xml" />
+    <description>Kang Wang(王康)</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>http://localhost:1313/author/kang-wang%E7%8E%8B%E5%BA%B7/avatar_hufd69acdf3729194b9810b3259edcf069_704036_270x270_fill_q75_lanczos_center.jpg</url>
+      <title>Kang Wang(王康)</title>
+      <link>http://localhost:1313/author/kang-wang%E7%8E%8B%E5%BA%B7/</link>
+    </image>
+    
+    <item>
+      <title>Kang Wang(王康)</title>
+      <link>http://localhost:1313/author/kang-wang%E7%8E%8B%E5%BA%B7/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/author/kang-wang%E7%8E%8B%E5%BA%B7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
