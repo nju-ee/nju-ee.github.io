@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士(2022-)
+role: 硕士(2022-2025)
 
 # Organizations/Affiliations
 #organizations:
@@ -59,6 +59,6 @@ email: 'ttj@smail.nju.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士
+  - 已毕业
 ---
 喜欢羽毛球，游泳，看动漫，湖南伢子，特别能吃辣

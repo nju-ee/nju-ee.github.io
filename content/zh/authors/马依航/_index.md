@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 硕士(2022-)
+role: 硕士(2022-2025)
 
 # Organizations/Affiliations
 #organizations:
@@ -64,7 +64,7 @@ email: 'mayihang@smail.nju.edu.cn'
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - 硕士
+  - 已毕业
 ---
 
 这里是个人介绍
