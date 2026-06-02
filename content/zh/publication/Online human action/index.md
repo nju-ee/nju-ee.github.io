@@ -31,6 +31,7 @@ abstract: 'To meet the demand for powerful models for practical applications in 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - 'JCR分区Q2中科院 2区'
   - Source Themes
 featured: true
 

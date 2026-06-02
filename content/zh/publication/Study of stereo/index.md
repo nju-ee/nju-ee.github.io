@@ -30,6 +30,8 @@ abstract: The huge computational complexity, occlusion and low texture region pr
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - '中科院分4区'
+  - 'JCR分区Q2'
   - Source Themes
 featured: true
 

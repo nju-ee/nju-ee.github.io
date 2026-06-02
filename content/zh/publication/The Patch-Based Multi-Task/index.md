@@ -29,6 +29,7 @@ abstract: In this paper, we propose a global gaze following method using the pat
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - 'CCF A会议'
   - Source Themes
 featured: true
 

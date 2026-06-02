@@ -33,6 +33,8 @@ abstract: Railway track detection, which is crucial for train operational safety
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - '中科院2区'
+  - 'JCR分区Q1'
   - Source Themes
 featured: true
 

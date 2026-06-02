@@ -30,6 +30,8 @@ abstract: Most existing 3D pose representations cannot completely decouple the o
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - '中科院4区'
+  - 'JCR分区Q3'
   - Source Themes
 featured: true
 

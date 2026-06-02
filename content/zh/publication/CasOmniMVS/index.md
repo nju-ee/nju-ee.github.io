@@ -31,6 +31,8 @@ abstract: Estimating 360° depth from multiple cameras has been a challenging pr
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - '中科院4区'
+  - 'JCR分区Q2'
   - Source Themes
 featured: true
 

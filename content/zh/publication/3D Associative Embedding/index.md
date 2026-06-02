@@ -31,6 +31,7 @@ abstract: Most of the existing multi-view multi-person 3D human pose estimation 
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - 'EI会议'
   - Source Themes
 featured: true
 

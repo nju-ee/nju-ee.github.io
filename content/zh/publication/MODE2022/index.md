@@ -28,6 +28,7 @@ abstract: In this paper, we propose a two-stage omnidirectional depth estimation
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - 'CCF B类顶级会议'
   - Source Themes
 featured: true
 

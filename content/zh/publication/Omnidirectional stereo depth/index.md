@@ -32,6 +32,8 @@ abstract: Omnidirectional depth estimation is an emerging research topic and has
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
+  - '中科院分区 3区'
+  - 'JCR分区Q2'
   - Source Themes
 featured: true
 
